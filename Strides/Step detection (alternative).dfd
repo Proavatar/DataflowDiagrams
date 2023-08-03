@@ -1,0 +1,2073 @@
+{
+  "connections" : [
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 0,
+      "inputNodeId" : 24
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 0,
+      "inputNodeId" : 46
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 1,
+      "inputNodeId" : 31
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 3,
+      "inputNodeId" : 67
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 4,
+      "inputNodeId" : 55
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 4,
+      "inputNodeId" : 57
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 5,
+      "inputNodeId" : 59
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 5,
+      "inputNodeId" : 64
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 6,
+      "inputNodeId" : 58
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 6,
+      "inputNodeId" : 59
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 7,
+      "inputNodeId" : 65
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 8,
+      "inputNodeId" : 66
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 9,
+      "inputNodeId" : 69
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 9,
+      "inputNodeId" : 75
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 10,
+      "inputNodeId" : 71
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 11,
+      "inputNodeId" : 73
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 11,
+      "inputNodeId" : 71
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 12,
+      "inputNodeId" : 81
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 13,
+      "inputNodeId" : 45
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 14,
+      "inputNodeId" : 24
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 15,
+      "inputNodeId" : 26
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 16,
+      "inputNodeId" : 50
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 17,
+      "inputNodeId" : 55
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 17,
+      "inputNodeId" : 68
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 18,
+      "inputNodeId" : 58
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 19,
+      "inputNodeId" : 67
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 20,
+      "inputNodeId" : 68
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 21,
+      "inputNodeId" : 69
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 22,
+      "inputNodeId" : 74
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 22,
+      "inputNodeId" : 75
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 23,
+      "inputNodeId" : 77
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 23,
+      "inputNodeId" : 78
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 24,
+      "inputNodeId" : 86
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 25,
+      "inputNodeId" : 26
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 26,
+      "inputNodeId" : 27
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 26,
+      "inputNodeId" : 28
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 27,
+      "inputNodeId" : 29
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 28,
+      "inputNodeId" : 29
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 29,
+      "inputNodeId" : 30
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 30,
+      "inputNodeId" : 85
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 31,
+      "inputNodeId" : 30
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 31,
+      "inputNodeId" : 27
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 31,
+      "inputNodeId" : 25
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 32,
+      "inputNodeId" : 34
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 33,
+      "inputNodeId" : 35
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 34,
+      "inputNodeId" : 51
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 34,
+      "inputNodeId" : 52
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 35,
+      "inputNodeId" : 53
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 36,
+      "inputNodeId" : 47
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 37,
+      "inputNodeId" : 48
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 38,
+      "inputNodeId" : 40
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 39,
+      "inputNodeId" : 41
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 40,
+      "inputNodeId" : 42
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 40,
+      "inputNodeId" : 42
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 41,
+      "inputNodeId" : 43
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 41,
+      "inputNodeId" : 43
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 42,
+      "inputNodeId" : 44
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 43,
+      "inputNodeId" : 44
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 44,
+      "inputNodeId" : 54
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 45,
+      "inputNodeId" : 84
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 46,
+      "inputNodeId" : 45
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 47,
+      "inputNodeId" : 38
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 48,
+      "inputNodeId" : 39
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 49,
+      "inputNodeId" : 88
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 50,
+      "inputNodeId" : 51
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 50,
+      "inputNodeId" : 53
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 51,
+      "inputNodeId" : 36
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 52,
+      "inputNodeId" : 50
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 53,
+      "inputNodeId" : 37
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 54,
+      "inputNodeId" : 87
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 54,
+      "inputNodeId" : 49
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 55,
+      "inputNodeId" : 56
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 56,
+      "inputNodeId" : 92
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 57,
+      "inputNodeId" : 89
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 58,
+      "inputNodeId" : 64
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 59,
+      "inputNodeId" : 60
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 59,
+      "inputNodeId" : 80
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 60,
+      "inputNodeId" : 61
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 60,
+      "inputNodeId" : 61
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 61,
+      "inputNodeId" : 90
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 62,
+      "inputNodeId" : 63
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 62,
+      "inputNodeId" : 63
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 63,
+      "inputNodeId" : 91
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 64,
+      "inputNodeId" : 60
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 64,
+      "inputNodeId" : 79
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 65,
+      "inputNodeId" : 34
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 65,
+      "inputNodeId" : 35
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 66,
+      "inputNodeId" : 65
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 67,
+      "inputNodeId" : 32
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 67,
+      "inputNodeId" : 33
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 68,
+      "inputNodeId" : 57
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 69,
+      "inputNodeId" : 74
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 70,
+      "inputNodeId" : 94
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 71,
+      "inputNodeId" : 72
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 72,
+      "inputNodeId" : 76
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 73,
+      "inputNodeId" : 72
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 73,
+      "inputNodeId" : 77
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 74,
+      "inputNodeId" : 70
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 75,
+      "inputNodeId" : 70
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 76,
+      "inputNodeId" : 78
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 77,
+      "inputNodeId" : 76
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 78,
+      "inputNodeId" : 93
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 79,
+      "inputNodeId" : 62
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 80,
+      "inputNodeId" : 62
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 81,
+      "inputNodeId" : 82
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 82,
+      "inputNodeId" : 83
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 83,
+      "inputNodeId" : 95
+    }
+  ],
+  "manualLines" : [
+
+  ],
+  "positions" : [
+    {
+      "id" : 0,
+      "x" : 170,
+      "y" : 390
+    },
+    {
+      "id" : 1,
+      "x" : 380,
+      "y" : 330
+    },
+    {
+      "id" : 2,
+      "x" : 240,
+      "y" : 110
+    },
+    {
+      "id" : 3,
+      "x" : 120,
+      "y" : 960
+    },
+    {
+      "id" : 4,
+      "x" : 320,
+      "y" : 680
+    },
+    {
+      "id" : 5,
+      "x" : 670,
+      "y" : 640
+    },
+    {
+      "id" : 6,
+      "x" : 310,
+      "y" : 380
+    },
+    {
+      "id" : 7,
+      "x" : 440,
+      "y" : 390
+    },
+    {
+      "id" : 8,
+      "x" : 120,
+      "y" : 560
+    },
+    {
+      "id" : 9,
+      "x" : 450,
+      "y" : 740
+    },
+    {
+      "id" : 10,
+      "x" : 1700,
+      "y" : 570
+    },
+    {
+      "id" : 11,
+      "x" : 1700,
+      "y" : 660
+    },
+    {
+      "id" : 12,
+      "x" : 240,
+      "y" : 260
+    },
+    {
+      "id" : 13,
+      "x" : 500,
+      "y" : 140
+    },
+    {
+      "id" : 14,
+      "x" : 530,
+      "y" : 420
+    },
+    {
+      "id" : 15,
+      "x" : 490,
+      "y" : 250
+    },
+    {
+      "id" : 16,
+      "x" : 1230,
+      "y" : 490
+    },
+    {
+      "id" : 17,
+      "x" : 160,
+      "y" : 370
+    },
+    {
+      "id" : 18,
+      "x" : 520,
+      "y" : 430
+    },
+    {
+      "id" : 19,
+      "x" : 130,
+      "y" : 760
+    },
+    {
+      "id" : 20,
+      "x" : 90,
+      "y" : 780
+    },
+    {
+      "id" : 21,
+      "x" : 430,
+      "y" : 360
+    },
+    {
+      "id" : 22,
+      "x" : 610,
+      "y" : 600
+    },
+    {
+      "id" : 23,
+      "x" : 2190,
+      "y" : 830
+    },
+    {
+      "id" : 24,
+      "x" : 680,
+      "y" : 530
+    },
+    {
+      "id" : 25,
+      "x" : 740,
+      "y" : 170
+    },
+    {
+      "id" : 26,
+      "x" : 1020,
+      "y" : 210
+    },
+    {
+      "id" : 27,
+      "x" : 1200,
+      "y" : 390
+    },
+    {
+      "id" : 28,
+      "x" : 1380,
+      "y" : 210
+    },
+    {
+      "id" : 29,
+      "x" : 1560,
+      "y" : 350
+    },
+    {
+      "id" : 30,
+      "x" : 1850,
+      "y" : 530
+    },
+    {
+      "id" : 31,
+      "x" : 560,
+      "y" : 510
+    },
+    {
+      "id" : 32,
+      "x" : 620,
+      "y" : 690
+    },
+    {
+      "id" : 33,
+      "x" : 620,
+      "y" : 850
+    },
+    {
+      "id" : 34,
+      "x" : 1080,
+      "y" : 650
+    },
+    {
+      "id" : 35,
+      "x" : 910,
+      "y" : 810
+    },
+    {
+      "id" : 36,
+      "x" : 1940,
+      "y" : 530
+    },
+    {
+      "id" : 37,
+      "x" : 1930,
+      "y" : 880
+    },
+    {
+      "id" : 38,
+      "x" : 2300,
+      "y" : 540
+    },
+    {
+      "id" : 39,
+      "x" : 2290,
+      "y" : 910
+    },
+    {
+      "id" : 40,
+      "x" : 2480,
+      "y" : 690
+    },
+    {
+      "id" : 41,
+      "x" : 2520,
+      "y" : 860
+    },
+    {
+      "id" : 42,
+      "x" : 2770,
+      "y" : 680
+    },
+    {
+      "id" : 43,
+      "x" : 2770,
+      "y" : 860
+    },
+    {
+      "id" : 44,
+      "x" : 3020,
+      "y" : 770
+    },
+    {
+      "id" : 45,
+      "x" : 650,
+      "y" : 250
+    },
+    {
+      "id" : 46,
+      "x" : 350,
+      "y" : 290
+    },
+    {
+      "id" : 47,
+      "x" : 2120,
+      "y" : 660
+    },
+    {
+      "id" : 48,
+      "x" : 2110,
+      "y" : 810
+    },
+    {
+      "id" : 49,
+      "x" : 3460,
+      "y" : 890
+    },
+    {
+      "id" : 50,
+      "x" : 1490,
+      "y" : 450
+    },
+    {
+      "id" : 51,
+      "x" : 1760,
+      "y" : 610
+    },
+    {
+      "id" : 52,
+      "x" : 1260,
+      "y" : 330
+    },
+    {
+      "id" : 53,
+      "x" : 1750,
+      "y" : 770
+    },
+    {
+      "id" : 54,
+      "x" : 3200,
+      "y" : 890
+    },
+    {
+      "id" : 55,
+      "x" : 650,
+      "y" : 410
+    },
+    {
+      "id" : 56,
+      "x" : 900,
+      "y" : 410
+    },
+    {
+      "id" : 57,
+      "x" : 650,
+      "y" : 590
+    },
+    {
+      "id" : 58,
+      "x" : 770,
+      "y" : 470
+    },
+    {
+      "id" : 59,
+      "x" : 850,
+      "y" : 420
+    },
+    {
+      "id" : 60,
+      "x" : 1130,
+      "y" : 460
+    },
+    {
+      "id" : 61,
+      "x" : 1350,
+      "y" : 460
+    },
+    {
+      "id" : 62,
+      "x" : 1310,
+      "y" : 810
+    },
+    {
+      "id" : 63,
+      "x" : 1550,
+      "y" : 810
+    },
+    {
+      "id" : 64,
+      "x" : 950,
+      "y" : 600
+    },
+    {
+      "id" : 65,
+      "x" : 620,
+      "y" : 520
+    },
+    {
+      "id" : 66,
+      "x" : 380,
+      "y" : 560
+    },
+    {
+      "id" : 67,
+      "x" : 390,
+      "y" : 800
+    },
+    {
+      "id" : 68,
+      "x" : 340,
+      "y" : 740
+    },
+    {
+      "id" : 69,
+      "x" : 630,
+      "y" : 400
+    },
+    {
+      "id" : 70,
+      "x" : 990,
+      "y" : 670
+    },
+    {
+      "id" : 71,
+      "x" : 1960,
+      "y" : 530
+    },
+    {
+      "id" : 72,
+      "x" : 2340,
+      "y" : 540
+    },
+    {
+      "id" : 73,
+      "x" : 2080,
+      "y" : 660
+    },
+    {
+      "id" : 74,
+      "x" : 810,
+      "y" : 560
+    },
+    {
+      "id" : 75,
+      "x" : 810,
+      "y" : 780
+    },
+    {
+      "id" : 76,
+      "x" : 2590,
+      "y" : 660
+    },
+    {
+      "id" : 77,
+      "x" : 2340,
+      "y" : 700
+    },
+    {
+      "id" : 78,
+      "x" : 2770,
+      "y" : 790
+    },
+    {
+      "id" : 79,
+      "x" : 1130,
+      "y" : 680
+    },
+    {
+      "id" : 80,
+      "x" : 1030,
+      "y" : 850
+    },
+    {
+      "id" : 81,
+      "x" : 480,
+      "y" : 260
+    },
+    {
+      "id" : 82,
+      "x" : 730,
+      "y" : 260
+    },
+    {
+      "id" : 83,
+      "x" : 990,
+      "y" : 260
+    },
+    {
+      "id" : 84,
+      "x" : 920,
+      "y" : 250
+    },
+    {
+      "id" : 85,
+      "x" : 1000,
+      "y" : 290
+    },
+    {
+      "id" : 86,
+      "x" : 950,
+      "y" : 530
+    },
+    {
+      "id" : 87,
+      "x" : 3380,
+      "y" : 770
+    },
+    {
+      "id" : 88,
+      "x" : 3640,
+      "y" : 1000
+    },
+    {
+      "id" : 89,
+      "x" : 910,
+      "y" : 590
+    },
+    {
+      "id" : 90,
+      "x" : 1530,
+      "y" : 550
+    },
+    {
+      "id" : 91,
+      "x" : 1730,
+      "y" : 730
+    },
+    {
+      "id" : 92,
+      "x" : 1150,
+      "y" : 410
+    },
+    {
+      "id" : 93,
+      "x" : 2950,
+      "y" : 660
+    },
+    {
+      "id" : 94,
+      "x" : 1240,
+      "y" : 670
+    },
+    {
+      "id" : 95,
+      "x" : 1230,
+      "y" : 260
+    }
+  ],
+  "properties" : [
+    {
+      "id" : 0,
+      "propertyString" : "Description",
+      "valueString" : "Calibrated left foot acc."
+    },
+    {
+      "id" : 0,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "Description",
+      "valueString" : "Left foot acceleration"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "Description",
+      "valueString" : "Left foot acceleration"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Description",
+      "valueString" : "Left acceleration"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Description",
+      "valueString" : "Moving average left foot"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 5,
+      "propertyString" : "Description",
+      "valueString" : "Threshold"
+    },
+    {
+      "id" : 5,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 6,
+      "propertyString" : "Description",
+      "valueString" : "Delayed moving average"
+    },
+    {
+      "id" : 6,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 7,
+      "propertyString" : "Description",
+      "valueString" : "Start"
+    },
+    {
+      "id" : 7,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 8,
+      "propertyString" : "Description",
+      "valueString" : "Stop"
+    },
+    {
+      "id" : 8,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 9,
+      "propertyString" : "Description",
+      "valueString" : "Delayed moving average"
+    },
+    {
+      "id" : 9,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 10,
+      "propertyString" : "Description",
+      "valueString" : "Minimum"
+    },
+    {
+      "id" : 10,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 11,
+      "propertyString" : "Description",
+      "valueString" : "Capture minimum"
+    },
+    {
+      "id" : 11,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 12,
+      "propertyString" : "Description",
+      "valueString" : "Left foot"
+    },
+    {
+      "id" : 12,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 13,
+      "propertyString" : "Description",
+      "valueString" : "Window"
+    },
+    {
+      "id" : 13,
+      "propertyString" : "OutputValue",
+      "valueString" : "7"
+    },
+    {
+      "id" : 14,
+      "propertyString" : "Description",
+      "valueString" : "Delay"
+    },
+    {
+      "id" : 14,
+      "propertyString" : "OutputValue",
+      "valueString" : "3"
+    },
+    {
+      "id" : 15,
+      "propertyString" : "Description",
+      "valueString" : "Calibration period [s]"
+    },
+    {
+      "id" : 15,
+      "propertyString" : "OutputValue",
+      "valueString" : "10.0"
+    },
+    {
+      "id" : 16,
+      "propertyString" : "Description",
+      "valueString" : "Duration"
+    },
+    {
+      "id" : 16,
+      "propertyString" : "OutputValue",
+      "valueString" : "0.2"
+    },
+    {
+      "id" : 17,
+      "propertyString" : "Description",
+      "valueString" : "Window"
+    },
+    {
+      "id" : 17,
+      "propertyString" : "OutputValue",
+      "valueString" : "30"
+    },
+    {
+      "id" : 18,
+      "propertyString" : "Description",
+      "valueString" : "Integer"
+    },
+    {
+      "id" : 18,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 19,
+      "propertyString" : "Description",
+      "valueString" : "Delay"
+    },
+    {
+      "id" : 19,
+      "propertyString" : "OutputValue",
+      "valueString" : "29"
+    },
+    {
+      "id" : 20,
+      "propertyString" : "Description",
+      "valueString" : ""
+    },
+    {
+      "id" : 20,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 21,
+      "propertyString" : "Description",
+      "valueString" : "Previous"
+    },
+    {
+      "id" : 21,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 22,
+      "propertyString" : "Description",
+      "valueString" : "Detect"
+    },
+    {
+      "id" : 22,
+      "propertyString" : "OutputValue",
+      "valueString" : "2.0"
+    },
+    {
+      "id" : 23,
+      "propertyString" : "Description",
+      "valueString" : "Default"
+    },
+    {
+      "id" : 23,
+      "propertyString" : "OutputValue",
+      "valueString" : "0.15"
+    },
+    {
+      "id" : 84,
+      "propertyString" : "Description",
+      "valueString" : "Moving average left foot"
+    },
+    {
+      "id" : 84,
+      "propertyString" : "Hidden",
+      "valueString" : "true"
+    },
+    {
+      "id" : 85,
+      "propertyString" : "Description",
+      "valueString" : "Calibrated left foot acc."
+    },
+    {
+      "id" : 85,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 86,
+      "propertyString" : "Description",
+      "valueString" : "Left acceleration"
+    },
+    {
+      "id" : 86,
+      "propertyString" : "Hidden",
+      "valueString" : "true"
+    },
+    {
+      "id" : 86,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 87,
+      "propertyString" : "Description",
+      "valueString" : "Left step length"
+    },
+    {
+      "id" : 87,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 88,
+      "propertyString" : "Description",
+      "valueString" : "Left steps"
+    },
+    {
+      "id" : 88,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 89,
+      "propertyString" : "Description",
+      "valueString" : "Delayed moving average"
+    },
+    {
+      "id" : 89,
+      "propertyString" : "Hidden",
+      "valueString" : "true"
+    },
+    {
+      "id" : 90,
+      "propertyString" : "Description",
+      "valueString" : "Start"
+    },
+    {
+      "id" : 90,
+      "propertyString" : "Hidden",
+      "valueString" : "true"
+    },
+    {
+      "id" : 91,
+      "propertyString" : "Description",
+      "valueString" : "Stop"
+    },
+    {
+      "id" : 91,
+      "propertyString" : "Hidden",
+      "valueString" : "true"
+    },
+    {
+      "id" : 92,
+      "propertyString" : "Description",
+      "valueString" : "Minimum"
+    },
+    {
+      "id" : 92,
+      "propertyString" : "Hidden",
+      "valueString" : "true"
+    },
+    {
+      "id" : 93,
+      "propertyString" : "Description",
+      "valueString" : "Threshold"
+    },
+    {
+      "id" : 93,
+      "propertyString" : "Hidden",
+      "valueString" : "true"
+    },
+    {
+      "id" : 94,
+      "propertyString" : "Description",
+      "valueString" : "Capture minimum"
+    },
+    {
+      "id" : 94,
+      "propertyString" : "Hidden",
+      "valueString" : "true"
+    },
+    {
+      "id" : 95,
+      "propertyString" : "Description",
+      "valueString" : "Left foot angular velocity"
+    },
+    {
+      "id" : 95,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    }
+  ],
+  "containers" : [
+    {
+      "y" : 290,
+      "nodeIds" : [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "x" : 730,
+      "description" : "Calibrate offset"
+    },
+    {
+      "y" : 560,
+      "nodeIds" : [
+        58,
+        18
+      ],
+      "x" : 490,
+      "description" : "Previous"
+    },
+    {
+      "y" : 550,
+      "nodeIds" : [
+        68,
+        20
+      ],
+      "x" : 310,
+      "description" : "-1"
+    }
+  ],
+  "nodes" : [
+    {
+      "id" : 0,
+      "classString" : "Input stream",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 1,
+      "classString" : "Input stream",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 2,
+      "classString" : "Input stream",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 3,
+      "classString" : "Input stream",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 4,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 5,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 6,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 7,
+      "classString" : "Input stream",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 8,
+      "classString" : "Input stream",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 9,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 10,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 11,
+      "classString" : "Input stream",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 12,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 13,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 14,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 15,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 16,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 17,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 18,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 19,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 20,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 21,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 22,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 23,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 24,
+      "classString" : "Function",
+      "typeString" : "Buffer",
+      "outputType" : "Vector"
+    },
+    {
+      "id" : 25,
+      "classString" : "Function",
+      "typeString" : "Timestamp"
+    },
+    {
+      "id" : 26,
+      "classString" : "Function",
+      "typeString" : "Smaller"
+    },
+    {
+      "id" : 27,
+      "classString" : "Function",
+      "typeString" : "Averager",
+      "outputType" : "Vector"
+    },
+    {
+      "id" : 28,
+      "classString" : "Function",
+      "typeString" : "Not"
+    },
+    {
+      "id" : 29,
+      "classString" : "Function",
+      "typeString" : "Trigger",
+      "outputType" : "Vector"
+    },
+    {
+      "id" : 30,
+      "classString" : "Function",
+      "typeString" : "Subtract",
+      "outputType" : "Vector"
+    },
+    {
+      "id" : 31,
+      "classString" : "Function",
+      "typeString" : "Pass-through",
+      "outputType" : "Vector"
+    },
+    {
+      "id" : 32,
+      "classString" : "Function",
+      "typeString" : "Vector x-coordinate"
+    },
+    {
+      "id" : 33,
+      "classString" : "Function",
+      "typeString" : "Vector y-coordinate"
+    },
+    {
+      "id" : 34,
+      "classString" : "Function",
+      "typeString" : "Create sequence"
+    },
+    {
+      "id" : 35,
+      "classString" : "Function",
+      "typeString" : "Create sequence"
+    },
+    {
+      "id" : 36,
+      "classString" : "Function",
+      "typeString" : "Time integral"
+    },
+    {
+      "id" : 37,
+      "classString" : "Function",
+      "typeString" : "Time integral"
+    },
+    {
+      "id" : 38,
+      "classString" : "Function",
+      "typeString" : "Sequence values"
+    },
+    {
+      "id" : 39,
+      "classString" : "Function",
+      "typeString" : "Sequence values"
+    },
+    {
+      "id" : 40,
+      "classString" : "Function",
+      "typeString" : "Last",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 41,
+      "classString" : "Function",
+      "typeString" : "Last",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 42,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 43,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 44,
+      "classString" : "Function",
+      "typeString" : "Add",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 45,
+      "classString" : "Function",
+      "typeString" : "Moving averager",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 46,
+      "classString" : "Function",
+      "typeString" : "Vector length"
+    },
+    {
+      "id" : 47,
+      "classString" : "Function",
+      "typeString" : "Time integral"
+    },
+    {
+      "id" : 48,
+      "classString" : "Function",
+      "typeString" : "Time integral"
+    },
+    {
+      "id" : 49,
+      "classString" : "Function",
+      "typeString" : "Update counter"
+    },
+    {
+      "id" : 50,
+      "classString" : "Function",
+      "typeString" : "Larger"
+    },
+    {
+      "id" : 51,
+      "classString" : "Function",
+      "typeString" : "Gate",
+      "outputType" : "Sequence"
+    },
+    {
+      "id" : 52,
+      "classString" : "Function",
+      "typeString" : "Duration"
+    },
+    {
+      "id" : 53,
+      "classString" : "Function",
+      "typeString" : "Gate",
+      "outputType" : "Sequence"
+    },
+    {
+      "id" : 54,
+      "classString" : "Function",
+      "typeString" : "Square root",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 55,
+      "classString" : "Function",
+      "typeString" : "Create array",
+      "outputType" : "Float array"
+    },
+    {
+      "id" : 56,
+      "classString" : "Function",
+      "typeString" : "Minimum"
+    },
+    {
+      "id" : 57,
+      "classString" : "Function",
+      "typeString" : "Buffer",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 58,
+      "classString" : "Function",
+      "typeString" : "Buffer",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 59,
+      "classString" : "Function",
+      "typeString" : "Larger"
+    },
+    {
+      "id" : 60,
+      "classString" : "Function",
+      "typeString" : "And"
+    },
+    {
+      "id" : 61,
+      "classString" : "Function",
+      "typeString" : "Gate",
+      "outputType" : "Boolean"
+    },
+    {
+      "id" : 62,
+      "classString" : "Function",
+      "typeString" : "And"
+    },
+    {
+      "id" : 63,
+      "classString" : "Function",
+      "typeString" : "Gate",
+      "outputType" : "Boolean"
+    },
+    {
+      "id" : 64,
+      "classString" : "Function",
+      "typeString" : "Smaller or equal"
+    },
+    {
+      "id" : 65,
+      "classString" : "Function",
+      "typeString" : "Pass updated",
+      "outputType" : "Boolean"
+    },
+    {
+      "id" : 66,
+      "classString" : "Function",
+      "typeString" : "Not"
+    },
+    {
+      "id" : 67,
+      "classString" : "Function",
+      "typeString" : "Buffer",
+      "outputType" : "Vector"
+    },
+    {
+      "id" : 68,
+      "classString" : "Function",
+      "typeString" : "Subtract",
+      "outputType" : "Integer"
+    },
+    {
+      "id" : 69,
+      "classString" : "Function",
+      "typeString" : "Buffer",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 70,
+      "classString" : "Function",
+      "typeString" : "And"
+    },
+    {
+      "id" : 71,
+      "classString" : "Function",
+      "typeString" : "Gate",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 72,
+      "classString" : "Function",
+      "typeString" : "Trigger",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 73,
+      "classString" : "Function",
+      "typeString" : "Updated"
+    },
+    {
+      "id" : 74,
+      "classString" : "Function",
+      "typeString" : "Larger"
+    },
+    {
+      "id" : 75,
+      "classString" : "Function",
+      "typeString" : "Smaller"
+    },
+    {
+      "id" : 76,
+      "classString" : "Function",
+      "typeString" : "Pass updated",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 77,
+      "classString" : "Function",
+      "typeString" : "Gate",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 78,
+      "classString" : "Function",
+      "typeString" : "Max",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 79,
+      "classString" : "Function",
+      "typeString" : "Not"
+    },
+    {
+      "id" : 80,
+      "classString" : "Function",
+      "typeString" : "Not"
+    },
+    {
+      "id" : 81,
+      "classString" : "Function",
+      "typeString" : "Quaternion angle"
+    },
+    {
+      "id" : 82,
+      "classString" : "Function",
+      "typeString" : "Radians to degrees"
+    },
+    {
+      "id" : 83,
+      "classString" : "Function",
+      "typeString" : "Derivative"
+    },
+    {
+      "id" : 84,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 85,
+      "classString" : "Variable output",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 86,
+      "classString" : "Variable output",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 87,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 88,
+      "classString" : "Variable output",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 89,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 90,
+      "classString" : "Variable output",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 91,
+      "classString" : "Variable output",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 92,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 93,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 94,
+      "classString" : "Variable output",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 95,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    }
+  ],
+  "subdiagrams" : [
+    {
+      "nodeIds" : [
+        2,
+        81,
+        82,
+        83,
+        95,
+        12
+      ],
+      "description" : "Input data"
+    },
+    {
+      "nodeIds" : [
+        1,
+        25,
+        26,
+        15,
+        85,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "description" : "Offset calibration"
+    },
+    {
+      "nodeIds" : [
+        0,
+        13,
+        84,
+        24,
+        14,
+        86,
+        45,
+        46
+      ],
+      "description" : "Moving average"
+    },
+    {
+      "nodeIds" : [
+        4,
+        55,
+        17,
+        56,
+        57,
+        89,
+        68,
+        20,
+        92
+      ],
+      "description" : "Local minimum"
+    },
+    {
+      "nodeIds" : [
+        9,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        21,
+        22,
+        23,
+        93,
+        10,
+        94,
+        11
+      ],
+      "description" : "Threshold"
+    },
+    {
+      "nodeIds" : [
+        5,
+        6,
+        58,
+        18,
+        59,
+        60,
+        90,
+        61,
+        62,
+        63,
+        91,
+        64,
+        79,
+        80
+      ],
+      "description" : "sequence control"
+    },
+    {
+      "nodeIds" : [
+        3,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        87,
+        47,
+        48,
+        49,
+        88,
+        50,
+        51,
+        52,
+        16,
+        53,
+        54,
+        19,
+        65,
+        7,
+        8,
+        66,
+        67
+      ],
+      "description" : "Step counter left"
+    }
+  ]
+}

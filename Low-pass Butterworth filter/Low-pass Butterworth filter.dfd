@@ -1,0 +1,823 @@
+{
+  "connections" : [
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 0,
+      "inputNodeId" : 21
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 1,
+      "inputNodeId" : 24
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 2,
+      "inputNodeId" : 25
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 3,
+      "inputNodeId" : 28
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 3,
+      "inputNodeId" : 29
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 3,
+      "inputNodeId" : 30
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 3,
+      "inputNodeId" : 31
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 3,
+      "inputNodeId" : 32
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 4,
+      "inputNodeId" : 28
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 5,
+      "inputNodeId" : 29
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 6,
+      "inputNodeId" : 30
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 7,
+      "inputNodeId" : 31
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 8,
+      "inputNodeId" : 32
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 9,
+      "inputNodeId" : 33
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 11,
+      "inputNodeId" : 13
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 11,
+      "inputNodeId" : 24
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 11,
+      "inputNodeId" : 20
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 12,
+      "inputNodeId" : 16
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 12,
+      "inputNodeId" : 33
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 13,
+      "inputNodeId" : 26
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 14,
+      "inputNodeId" : 26
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 15,
+      "inputNodeId" : 27
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 16,
+      "inputNodeId" : 18
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 17,
+      "inputNodeId" : 18
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 18,
+      "inputNodeId" : 19
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 19,
+      "inputNodeId" : 22
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 20,
+      "inputNodeId" : 21
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 21,
+      "inputNodeId" : 22
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 22,
+      "inputNodeId" : 10
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 24,
+      "inputNodeId" : 14
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 24,
+      "inputNodeId" : 25
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 25,
+      "inputNodeId" : 15
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 26,
+      "inputNodeId" : 27
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 27,
+      "inputNodeId" : 19
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 28,
+      "inputNodeId" : 13
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 29,
+      "inputNodeId" : 14
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 30,
+      "inputNodeId" : 15
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 31,
+      "inputNodeId" : 16
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 32,
+      "inputNodeId" : 17
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 33,
+      "inputNodeId" : 17
+    }
+  ],
+  "manualLines" : [
+
+  ],
+  "positions" : [
+    {
+      "id" : 0,
+      "x" : 1520,
+      "y" : 230
+    },
+    {
+      "id" : 1,
+      "x" : 490,
+      "y" : 630
+    },
+    {
+      "id" : 2,
+      "x" : 490,
+      "y" : 630
+    },
+    {
+      "id" : 3,
+      "x" : 120,
+      "y" : 500
+    },
+    {
+      "id" : 4,
+      "x" : 457.15597000643254,
+      "y" : 520.92541417265272
+    },
+    {
+      "id" : 5,
+      "x" : 490,
+      "y" : 800
+    },
+    {
+      "id" : 6,
+      "x" : 650,
+      "y" : 1040
+    },
+    {
+      "id" : 7,
+      "x" : 510,
+      "y" : 1370
+    },
+    {
+      "id" : 8,
+      "x" : 440,
+      "y" : 1660
+    },
+    {
+      "id" : 9,
+      "x" : 490,
+      "y" : 630
+    },
+    {
+      "id" : 10,
+      "x" : 2120,
+      "y" : 530
+    },
+    {
+      "id" : 11,
+      "x" : 650,
+      "y" : 270
+    },
+    {
+      "id" : 12,
+      "x" : 610,
+      "y" : 740
+    },
+    {
+      "id" : 13,
+      "x" : 940,
+      "y" : 230
+    },
+    {
+      "id" : 14,
+      "x" : 1140,
+      "y" : 380
+    },
+    {
+      "id" : 15,
+      "x" : 1320,
+      "y" : 540
+    },
+    {
+      "id" : 16,
+      "x" : 1180,
+      "y" : 700
+    },
+    {
+      "id" : 17,
+      "x" : 1030,
+      "y" : 860
+    },
+    {
+      "id" : 18,
+      "x" : 1360,
+      "y" : 820
+    },
+    {
+      "id" : 19,
+      "x" : 1680,
+      "y" : 780
+    },
+    {
+      "id" : 20,
+      "x" : 940,
+      "y" : 80
+    },
+    {
+      "id" : 21,
+      "x" : 1670,
+      "y" : 120
+    },
+    {
+      "id" : 22,
+      "x" : 1940,
+      "y" : 400
+    },
+    {
+      "id" : 23,
+      "x" : 4120,
+      "y" : 2210
+    },
+    {
+      "id" : 24,
+      "x" : 650,
+      "y" : 770
+    },
+    {
+      "id" : 25,
+      "x" : 650,
+      "y" : 770
+    },
+    {
+      "id" : 26,
+      "x" : 1320,
+      "y" : 270
+    },
+    {
+      "id" : 27,
+      "x" : 1500,
+      "y" : 390
+    },
+    {
+      "id" : 28,
+      "x" : 707.15597000643254,
+      "y" : 560.92541417265272
+    },
+    {
+      "id" : 29,
+      "x" : 740,
+      "y" : 840
+    },
+    {
+      "id" : 30,
+      "x" : 800,
+      "y" : 1190
+    },
+    {
+      "id" : 31,
+      "x" : 880,
+      "y" : 1420
+    },
+    {
+      "id" : 32,
+      "x" : 690,
+      "y" : 1700
+    },
+    {
+      "id" : 33,
+      "x" : 650,
+      "y" : 770
+    }
+  ],
+  "properties" : [
+    {
+      "id" : 0,
+      "propertyString" : "Description",
+      "valueString" : ""
+    },
+    {
+      "id" : 0,
+      "propertyString" : "OutputValue",
+      "valueString" : "0.0"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "Description",
+      "valueString" : "Integer"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "Description",
+      "valueString" : "Integer"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Description",
+      "valueString" : "Coefficients"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "OutputValue",
+      "valueString" : "0.000241359049,0.0004827180981,0.000241359049,1.95557824,-0.9565436765"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Description",
+      "valueString" : "b0"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "OutputValue",
+      "valueString" : "0"
+    },
+    {
+      "id" : 5,
+      "propertyString" : "Description",
+      "valueString" : "b1"
+    },
+    {
+      "id" : 5,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 6,
+      "propertyString" : "Description",
+      "valueString" : "b2"
+    },
+    {
+      "id" : 6,
+      "propertyString" : "OutputValue",
+      "valueString" : "2"
+    },
+    {
+      "id" : 7,
+      "propertyString" : "Description",
+      "valueString" : "a1"
+    },
+    {
+      "id" : 7,
+      "propertyString" : "OutputValue",
+      "valueString" : "3"
+    },
+    {
+      "id" : 8,
+      "propertyString" : "Description",
+      "valueString" : "a2"
+    },
+    {
+      "id" : 8,
+      "propertyString" : "OutputValue",
+      "valueString" : "4"
+    },
+    {
+      "id" : 9,
+      "propertyString" : "Description",
+      "valueString" : "Integer"
+    },
+    {
+      "id" : 9,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 10,
+      "propertyString" : "Description",
+      "valueString" : "Filter out"
+    },
+    {
+      "id" : 10,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 10,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 11,
+      "propertyString" : "Description",
+      "valueString" : "Signal"
+    },
+    {
+      "id" : 11,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 12,
+      "propertyString" : "Description",
+      "valueString" : "Filter out"
+    },
+    {
+      "id" : 12,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    }
+  ],
+  "containers" : [
+    {
+      "y" : 420,
+      "nodeIds" : [
+        24,
+        1
+      ],
+      "x" : 830,
+      "description" : "Previous"
+    },
+    {
+      "y" : 580,
+      "nodeIds" : [
+        25,
+        2
+      ],
+      "x" : 1010,
+      "description" : "Previous"
+    },
+    {
+      "y" : 190,
+      "nodeIds" : [
+        28,
+        4
+      ],
+      "x" : 400,
+      "description" : "b0"
+    },
+    {
+      "y" : 340,
+      "nodeIds" : [
+        29,
+        5
+      ],
+      "x" : 400,
+      "description" : "b1"
+    },
+    {
+      "y" : 500,
+      "nodeIds" : [
+        30,
+        6
+      ],
+      "x" : 400,
+      "description" : "b2"
+    },
+    {
+      "y" : 660,
+      "nodeIds" : [
+        7,
+        31
+      ],
+      "x" : 410,
+      "description" : "a1"
+    },
+    {
+      "y" : 820,
+      "nodeIds" : [
+        8,
+        32
+      ],
+      "x" : 410,
+      "description" : "a2"
+    },
+    {
+      "y" : 900,
+      "nodeIds" : [
+        33,
+        9
+      ],
+      "x" : 790,
+      "description" : "Previous"
+    }
+  ],
+  "nodes" : [
+    {
+      "id" : 0,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 1,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 2,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 3,
+      "classString" : "Constant",
+      "typeString" : "Float array"
+    },
+    {
+      "id" : 4,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 5,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 6,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 7,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 8,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 9,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 10,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 11,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 12,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 13,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 14,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 15,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 16,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 17,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 18,
+      "classString" : "Function",
+      "typeString" : "Add",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 19,
+      "classString" : "Function",
+      "typeString" : "Add",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 20,
+      "classString" : "Function",
+      "typeString" : "Updated"
+    },
+    {
+      "id" : 21,
+      "classString" : "Function",
+      "typeString" : "Gate",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 22,
+      "classString" : "Function",
+      "typeString" : "Pass updated",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 23,
+      "classString" : "Function",
+      "typeString" : "Pass-through",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 24,
+      "classString" : "Function",
+      "typeString" : "Buffer",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 25,
+      "classString" : "Function",
+      "typeString" : "Buffer",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 26,
+      "classString" : "Function",
+      "typeString" : "Add",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 27,
+      "classString" : "Function",
+      "typeString" : "Add",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 28,
+      "classString" : "Function",
+      "typeString" : "Get element",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 29,
+      "classString" : "Function",
+      "typeString" : "Get element",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 30,
+      "classString" : "Function",
+      "typeString" : "Get element",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 31,
+      "classString" : "Function",
+      "typeString" : "Get element",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 32,
+      "classString" : "Function",
+      "typeString" : "Get element",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 33,
+      "classString" : "Function",
+      "typeString" : "Buffer",
+      "outputType" : "Float"
+    }
+  ],
+  "subdiagrams" : [
+    {
+      "nodeIds" : [
+        11,
+        13,
+        14,
+        15,
+        12,
+        16,
+        17,
+        18,
+        19,
+        10,
+        20,
+        21,
+        0,
+        22,
+        23,
+        24,
+        1,
+        2,
+        25,
+        26,
+        27,
+        3,
+        28,
+        4,
+        29,
+        5,
+        30,
+        6,
+        7,
+        31,
+        8,
+        32,
+        9,
+        33
+      ],
+      "description" : "Filter equation"
+    }
+  ]
+}

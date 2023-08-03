@@ -1,0 +1,1028 @@
+{
+  "connections" : [
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 0,
+      "inputNodeId" : 1
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 1,
+      "inputNodeId" : 21
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 2,
+      "inputNodeId" : 22
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 3,
+      "inputNodeId" : 23
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 4,
+      "inputNodeId" : 5
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 4,
+      "inputNodeId" : 6
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 4,
+      "inputNodeId" : 26
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 5,
+      "inputNodeId" : 24
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 6,
+      "inputNodeId" : 7
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 7,
+      "inputNodeId" : 25
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 8,
+      "inputNodeId" : 27
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 9,
+      "inputNodeId" : 10
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 10,
+      "inputNodeId" : 29
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 11,
+      "inputNodeId" : 12
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 11,
+      "inputNodeId" : 13
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 12,
+      "inputNodeId" : 14
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 13,
+      "inputNodeId" : 28
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 14,
+      "inputNodeId" : 13
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 15,
+      "inputNodeId" : 0
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 16,
+      "inputNodeId" : 2
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 17,
+      "inputNodeId" : 3
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 18,
+      "inputNodeId" : 8
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 19,
+      "inputNodeId" : 11
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 20,
+      "inputNodeId" : 12
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 30,
+      "inputNodeId" : 0
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 34,
+      "inputNodeId" : 2
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 35,
+      "inputNodeId" : 3
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 36,
+      "inputNodeId" : 4
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 37,
+      "inputNodeId" : 4
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 38,
+      "inputNodeId" : 8
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 39,
+      "inputNodeId" : 10
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 40,
+      "inputNodeId" : 9
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 41,
+      "inputNodeId" : 11
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 41,
+      "inputNodeId" : 14
+    }
+  ],
+  "manualLines" : [
+
+  ],
+  "positions" : [
+    {
+      "id" : 0,
+      "x" : 500,
+      "y" : 280
+    },
+    {
+      "id" : 1,
+      "x" : 760,
+      "y" : 280
+    },
+    {
+      "id" : 2,
+      "x" : 860,
+      "y" : 270
+    },
+    {
+      "id" : 3,
+      "x" : 610,
+      "y" : 290
+    },
+    {
+      "id" : 4,
+      "x" : 500,
+      "y" : 300
+    },
+    {
+      "id" : 5,
+      "x" : 800,
+      "y" : 300
+    },
+    {
+      "id" : 6,
+      "x" : 800,
+      "y" : 440
+    },
+    {
+      "id" : 7,
+      "x" : 1050,
+      "y" : 440
+    },
+    {
+      "id" : 8,
+      "x" : 590,
+      "y" : 340
+    },
+    {
+      "id" : 9,
+      "x" : 540,
+      "y" : 350
+    },
+    {
+      "id" : 10,
+      "x" : 720,
+      "y" : 470
+    },
+    {
+      "id" : 11,
+      "x" : 480,
+      "y" : 530
+    },
+    {
+      "id" : 12,
+      "x" : 660,
+      "y" : 380
+    },
+    {
+      "id" : 13,
+      "x" : 1020,
+      "y" : 490
+    },
+    {
+      "id" : 14,
+      "x" : 840,
+      "y" : 160
+    },
+    {
+      "id" : 15,
+      "x" : 90,
+      "y" : 240
+    },
+    {
+      "id" : 16,
+      "x" : 420,
+      "y" : 310
+    },
+    {
+      "id" : 17,
+      "x" : 190,
+      "y" : 330
+    },
+    {
+      "id" : 18,
+      "x" : 440,
+      "y" : 230
+    },
+    {
+      "id" : 19,
+      "x" : 270,
+      "y" : 570
+    },
+    {
+      "id" : 20,
+      "x" : 510,
+      "y" : 270
+    },
+    {
+      "id" : 21,
+      "x" : 1020,
+      "y" : 280
+    },
+    {
+      "id" : 22,
+      "x" : 1110,
+      "y" : 270
+    },
+    {
+      "id" : 23,
+      "x" : 860,
+      "y" : 290
+    },
+    {
+      "id" : 24,
+      "x" : 1050,
+      "y" : 300
+    },
+    {
+      "id" : 25,
+      "x" : 1230,
+      "y" : 550
+    },
+    {
+      "id" : 26,
+      "x" : 680,
+      "y" : 580
+    },
+    {
+      "id" : 27,
+      "x" : 840,
+      "y" : 340
+    },
+    {
+      "id" : 28,
+      "x" : 1200,
+      "y" : 370
+    },
+    {
+      "id" : 29,
+      "x" : 970,
+      "y" : 470
+    },
+    {
+      "id" : 30,
+      "x" : 240,
+      "y" : 320
+    },
+    {
+      "id" : 31,
+      "x" : 133,
+      "y" : 134.5
+    },
+    {
+      "id" : 32,
+      "x" : 130,
+      "y" : 250
+    },
+    {
+      "id" : 33,
+      "x" : 130,
+      "y" : 370
+    },
+    {
+      "id" : 34,
+      "x" : 590,
+      "y" : 230
+    },
+    {
+      "id" : 35,
+      "x" : 350,
+      "y" : 250
+    },
+    {
+      "id" : 36,
+      "x" : 220,
+      "y" : 230
+    },
+    {
+      "id" : 37,
+      "x" : 220,
+      "y" : 380
+    },
+    {
+      "id" : 38,
+      "x" : 300,
+      "y" : 380
+    },
+    {
+      "id" : 39,
+      "x" : 240,
+      "y" : 510
+    },
+    {
+      "id" : 40,
+      "x" : 240,
+      "y" : 350
+    },
+    {
+      "id" : 41,
+      "x" : 300,
+      "y" : 120
+    }
+  ],
+  "properties" : [
+    {
+      "id" : 15,
+      "propertyString" : "Description",
+      "valueString" : "Scale"
+    },
+    {
+      "id" : 15,
+      "propertyString" : "OutputValue",
+      "valueString" : "90"
+    },
+    {
+      "id" : 16,
+      "propertyString" : "Description",
+      "valueString" : "x-axis"
+    },
+    {
+      "id" : 16,
+      "propertyString" : "OutputValue",
+      "valueString" : "(1.0, 0.0, 0.0)"
+    },
+    {
+      "id" : 17,
+      "propertyString" : "Description",
+      "valueString" : "y-axis"
+    },
+    {
+      "id" : 17,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, 1.0, 0.0)"
+    },
+    {
+      "id" : 18,
+      "propertyString" : "Description",
+      "valueString" : "z-axis"
+    },
+    {
+      "id" : 18,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, 0.0, 1.0)"
+    },
+    {
+      "id" : 19,
+      "propertyString" : "Description",
+      "valueString" : "x-axis"
+    },
+    {
+      "id" : 19,
+      "propertyString" : "OutputValue",
+      "valueString" : "(1.0, 0.0, 0.0)"
+    },
+    {
+      "id" : 20,
+      "propertyString" : "Description",
+      "valueString" : "z-axis"
+    },
+    {
+      "id" : 20,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, 0.0, 1.0)"
+    },
+    {
+      "id" : 21,
+      "propertyString" : "Description",
+      "valueString" : "Rotation angle"
+    },
+    {
+      "id" : 21,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 21,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 22,
+      "propertyString" : "Description",
+      "valueString" : "Rotation around x-axis"
+    },
+    {
+      "id" : 22,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 22,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 23,
+      "propertyString" : "Description",
+      "valueString" : "Rotation around y-axis"
+    },
+    {
+      "id" : 23,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 23,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 24,
+      "propertyString" : "Description",
+      "valueString" : "Quaternion axis"
+    },
+    {
+      "id" : 24,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 24,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 25,
+      "propertyString" : "Description",
+      "valueString" : "Quaternion angle"
+    },
+    {
+      "id" : 25,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 25,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 26,
+      "propertyString" : "Description",
+      "valueString" : "Combined rotation"
+    },
+    {
+      "id" : 26,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 26,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 27,
+      "propertyString" : "Description",
+      "valueString" : "Rotated z-axis"
+    },
+    {
+      "id" : 27,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 28,
+      "propertyString" : "Description",
+      "valueString" : "Torso"
+    },
+    {
+      "id" : 28,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 29,
+      "propertyString" : "Description",
+      "valueString" : "Pelvis"
+    },
+    {
+      "id" : 29,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 30,
+      "propertyString" : "Description",
+      "valueString" : "Angle"
+    },
+    {
+      "id" : 30,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 31,
+      "propertyString" : "Description",
+      "valueString" : "Torso"
+    },
+    {
+      "id" : 31,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 32,
+      "propertyString" : "Description",
+      "valueString" : "Right upper arm"
+    },
+    {
+      "id" : 32,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 33,
+      "propertyString" : "Description",
+      "valueString" : "Right lower arm"
+    },
+    {
+      "id" : 33,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 34,
+      "propertyString" : "Description",
+      "valueString" : "Rotation angle"
+    },
+    {
+      "id" : 34,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 34,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 35,
+      "propertyString" : "Description",
+      "valueString" : "Rotation angle"
+    },
+    {
+      "id" : 35,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 35,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 36,
+      "propertyString" : "Description",
+      "valueString" : "Rotation around y-axis"
+    },
+    {
+      "id" : 36,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 36,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 37,
+      "propertyString" : "Description",
+      "valueString" : "Rotation around x-axis"
+    },
+    {
+      "id" : 37,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 37,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 38,
+      "propertyString" : "Description",
+      "valueString" : "Combined rotation"
+    },
+    {
+      "id" : 38,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 38,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 39,
+      "propertyString" : "Description",
+      "valueString" : "Quaternion axis"
+    },
+    {
+      "id" : 39,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 39,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 40,
+      "propertyString" : "Description",
+      "valueString" : "Quaternion angle"
+    },
+    {
+      "id" : 40,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 40,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 41,
+      "propertyString" : "Description",
+      "valueString" : "Rotation angle"
+    },
+    {
+      "id" : 41,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 41,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    }
+  ],
+  "containers" : [
+
+  ],
+  "nodes" : [
+    {
+      "id" : 0,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 1,
+      "classString" : "Function",
+      "typeString" : "Degrees to radians"
+    },
+    {
+      "id" : 2,
+      "classString" : "Function",
+      "typeString" : "Make quaternion"
+    },
+    {
+      "id" : 3,
+      "classString" : "Function",
+      "typeString" : "Make quaternion"
+    },
+    {
+      "id" : 4,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Orientation"
+    },
+    {
+      "id" : 5,
+      "classString" : "Function",
+      "typeString" : "Quaternion axis"
+    },
+    {
+      "id" : 6,
+      "classString" : "Function",
+      "typeString" : "Quaternion angle"
+    },
+    {
+      "id" : 7,
+      "classString" : "Function",
+      "typeString" : "Radians to degrees"
+    },
+    {
+      "id" : 8,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 9,
+      "classString" : "Function",
+      "typeString" : "Degrees to radians"
+    },
+    {
+      "id" : 10,
+      "classString" : "Function",
+      "typeString" : "Make quaternion"
+    },
+    {
+      "id" : 11,
+      "classString" : "Function",
+      "typeString" : "Make quaternion"
+    },
+    {
+      "id" : 12,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 13,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Orientation"
+    },
+    {
+      "id" : 14,
+      "classString" : "Function",
+      "typeString" : "Make quaternion"
+    },
+    {
+      "id" : 15,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 16,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 17,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 18,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 19,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 20,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 21,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 22,
+      "classString" : "Variable output",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 23,
+      "classString" : "Variable output",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 24,
+      "classString" : "Variable output",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 25,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 26,
+      "classString" : "Variable output",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 27,
+      "classString" : "Variable output",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 28,
+      "classString" : "Variable output",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 29,
+      "classString" : "Variable output",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 30,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 31,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 32,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 33,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 34,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 35,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 36,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 37,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 38,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 39,
+      "classString" : "Input stream",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 40,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 41,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    }
+  ],
+  "subdiagrams" : [
+    {
+      "nodeIds" : [
+        30,
+        0,
+        15,
+        1,
+        21
+      ],
+      "description" : "Rotation angle"
+    },
+    {
+      "nodeIds" : [
+        31,
+        32,
+        33,
+        34,
+        2,
+        16,
+        22
+      ],
+      "description" : "Rotate around x-axis"
+    },
+    {
+      "nodeIds" : [
+        35,
+        23,
+        3,
+        17
+      ],
+      "description" : "Rotate around y-axis"
+    },
+    {
+      "nodeIds" : [
+        4,
+        36,
+        37,
+        5,
+        6,
+        24,
+        7,
+        25,
+        26
+      ],
+      "description" : "Combined rotation"
+    },
+    {
+      "nodeIds" : [
+        38,
+        8,
+        18,
+        27
+      ],
+      "description" : "Rotated z-axis"
+    },
+    {
+      "nodeIds" : [
+        39,
+        40,
+        9,
+        10,
+        29
+      ],
+      "description" : "Pelvis"
+    },
+    {
+      "nodeIds" : [
+        41,
+        19,
+        11,
+        28,
+        20,
+        12,
+        13,
+        14
+      ],
+      "description" : "Rotate around longitudinal axis"
+    }
+  ]
+}

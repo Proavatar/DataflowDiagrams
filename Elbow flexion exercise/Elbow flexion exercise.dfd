@@ -1,0 +1,1350 @@
+{
+  "connections" : [
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 6,
+      "inputNodeId" : 8
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 7,
+      "inputNodeId" : 8
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 8,
+      "inputNodeId" : 9
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 9,
+      "inputNodeId" : 0
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 10,
+      "inputNodeId" : 11
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 11,
+      "inputNodeId" : 12
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 12,
+      "inputNodeId" : 13
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 12,
+      "inputNodeId" : 13
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 13,
+      "inputNodeId" : 20
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 14,
+      "inputNodeId" : 10
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 14,
+      "inputNodeId" : 12
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 15,
+      "inputNodeId" : 16
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 16,
+      "inputNodeId" : 17
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 17,
+      "inputNodeId" : 18
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 17,
+      "inputNodeId" : 18
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 18,
+      "inputNodeId" : 21
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 19,
+      "inputNodeId" : 15
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 19,
+      "inputNodeId" : 17
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 20,
+      "inputNodeId" : 1
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 21,
+      "inputNodeId" : 20
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 22,
+      "inputNodeId" : 2
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 22,
+      "inputNodeId" : 23
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 23,
+      "inputNodeId" : 3
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 24,
+      "inputNodeId" : 25
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 25,
+      "inputNodeId" : 26
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 25,
+      "inputNodeId" : 26
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 26,
+      "inputNodeId" : 27
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 26,
+      "inputNodeId" : 28
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 27,
+      "inputNodeId" : 30
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 28,
+      "inputNodeId" : 29
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 29,
+      "inputNodeId" : 30
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 30,
+      "inputNodeId" : 31
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 31,
+      "inputNodeId" : 38
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 32,
+      "inputNodeId" : 33
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 32,
+      "inputNodeId" : 35
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 33,
+      "inputNodeId" : 34
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 34,
+      "inputNodeId" : 4
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 35,
+      "inputNodeId" : 34
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 36,
+      "inputNodeId" : 24
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 37,
+      "inputNodeId" : 24
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 38,
+      "inputNodeId" : 5
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 40,
+      "inputNodeId" : 6
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 41,
+      "inputNodeId" : 7
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 42,
+      "inputNodeId" : 14
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 42,
+      "inputNodeId" : 19
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 43,
+      "inputNodeId" : 22
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 44,
+      "inputNodeId" : 22
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 45,
+      "inputNodeId" : 36
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 46,
+      "inputNodeId" : 32
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 47,
+      "inputNodeId" : 33
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 48,
+      "inputNodeId" : 37
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 50,
+      "inputNodeId" : 6
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 50,
+      "inputNodeId" : 7
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 51,
+      "inputNodeId" : 14
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 52,
+      "inputNodeId" : 10
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 53,
+      "inputNodeId" : 15
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 54,
+      "inputNodeId" : 19
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 55,
+      "inputNodeId" : 31
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 56,
+      "inputNodeId" : 32
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 57,
+      "inputNodeId" : 38
+    }
+  ],
+  "manualLines" : [
+
+  ],
+  "positions" : [
+    {
+      "id" : 0,
+      "x" : 1080,
+      "y" : 270
+    },
+    {
+      "id" : 1,
+      "x" : 1000,
+      "y" : 230
+    },
+    {
+      "id" : 2,
+      "x" : 800,
+      "y" : 280
+    },
+    {
+      "id" : 3,
+      "x" : 990,
+      "y" : 400
+    },
+    {
+      "id" : 4,
+      "x" : 1030,
+      "y" : 400
+    },
+    {
+      "id" : 5,
+      "x" : 950,
+      "y" : 280
+    },
+    {
+      "id" : 6,
+      "x" : 490,
+      "y" : 210
+    },
+    {
+      "id" : 7,
+      "x" : 490,
+      "y" : 340
+    },
+    {
+      "id" : 8,
+      "x" : 720,
+      "y" : 270
+    },
+    {
+      "id" : 9,
+      "x" : 900,
+      "y" : 350
+    },
+    {
+      "id" : 10,
+      "x" : 1180,
+      "y" : 300
+    },
+    {
+      "id" : 11,
+      "x" : 1360,
+      "y" : 380
+    },
+    {
+      "id" : 12,
+      "x" : 1600,
+      "y" : 420
+    },
+    {
+      "id" : 13,
+      "x" : 1830,
+      "y" : 420
+    },
+    {
+      "id" : 14,
+      "x" : 1000,
+      "y" : 460
+    },
+    {
+      "id" : 15,
+      "x" : 1180,
+      "y" : 300
+    },
+    {
+      "id" : 16,
+      "x" : 1360,
+      "y" : 380
+    },
+    {
+      "id" : 17,
+      "x" : 1600,
+      "y" : 420
+    },
+    {
+      "id" : 18,
+      "x" : 1830,
+      "y" : 420
+    },
+    {
+      "id" : 19,
+      "x" : 1000,
+      "y" : 460
+    },
+    {
+      "id" : 20,
+      "x" : 750,
+      "y" : 230
+    },
+    {
+      "id" : 21,
+      "x" : 570,
+      "y" : 410
+    },
+    {
+      "id" : 22,
+      "x" : 550,
+      "y" : 280
+    },
+    {
+      "id" : 23,
+      "x" : 730,
+      "y" : 400
+    },
+    {
+      "id" : 24,
+      "x" : 660,
+      "y" : 360
+    },
+    {
+      "id" : 25,
+      "x" : 910,
+      "y" : 360
+    },
+    {
+      "id" : 26,
+      "x" : 1160,
+      "y" : 350
+    },
+    {
+      "id" : 27,
+      "x" : 1410,
+      "y" : 350
+    },
+    {
+      "id" : 28,
+      "x" : 1340,
+      "y" : 510
+    },
+    {
+      "id" : 29,
+      "x" : 1570,
+      "y" : 510
+    },
+    {
+      "id" : 30,
+      "x" : 1750,
+      "y" : 390
+    },
+    {
+      "id" : 31,
+      "x" : 1930,
+      "y" : 520
+    },
+    {
+      "id" : 32,
+      "x" : 490,
+      "y" : 260
+    },
+    {
+      "id" : 33,
+      "x" : 670,
+      "y" : 380
+    },
+    {
+      "id" : 34,
+      "x" : 850,
+      "y" : 260
+    },
+    {
+      "id" : 35,
+      "x" : 670,
+      "y" : 150
+    },
+    {
+      "id" : 36,
+      "x" : 480,
+      "y" : 240
+    },
+    {
+      "id" : 37,
+      "x" : 480,
+      "y" : 480
+    },
+    {
+      "id" : 38,
+      "x" : 700,
+      "y" : 280
+    },
+    {
+      "id" : 39,
+      "x" : 450,
+      "y" : 270
+    },
+    {
+      "id" : 40,
+      "x" : 90,
+      "y" : 250
+    },
+    {
+      "id" : 41,
+      "x" : 90,
+      "y" : 380
+    },
+    {
+      "id" : 42,
+      "x" : 150,
+      "y" : 150
+    },
+    {
+      "id" : 43,
+      "x" : 270,
+      "y" : 240
+    },
+    {
+      "id" : 44,
+      "x" : 270,
+      "y" : 350
+    },
+    {
+      "id" : 45,
+      "x" : 170,
+      "y" : 200
+    },
+    {
+      "id" : 46,
+      "x" : 220,
+      "y" : 220
+    },
+    {
+      "id" : 47,
+      "x" : 220,
+      "y" : 420
+    },
+    {
+      "id" : 48,
+      "x" : 170,
+      "y" : 300
+    },
+    {
+      "id" : 49,
+      "x" : 443.5,
+      "y" : 140.5
+    },
+    {
+      "id" : 50,
+      "x" : 240,
+      "y" : 190
+    },
+    {
+      "id" : 51,
+      "x" : 330,
+      "y" : 290
+    },
+    {
+      "id" : 52,
+      "x" : 970,
+      "y" : 260
+    },
+    {
+      "id" : 53,
+      "x" : 970,
+      "y" : 260
+    },
+    {
+      "id" : 54,
+      "x" : 120,
+      "y" : 450
+    },
+    {
+      "id" : 55,
+      "x" : 1730,
+      "y" : 560
+    },
+    {
+      "id" : 56,
+      "x" : 60,
+      "y" : 300
+    },
+    {
+      "id" : 57,
+      "x" : 550,
+      "y" : 380
+    }
+  ],
+  "properties" : [
+    {
+      "id" : 0,
+      "propertyString" : "Description",
+      "valueString" : "Left elbow angle"
+    },
+    {
+      "id" : 0,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 0,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "Description",
+      "valueString" : "Inside thresholds"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "Description",
+      "valueString" : "Cycle"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Description",
+      "valueString" : "Cycles counter"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Description",
+      "valueString" : "First cycle"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 5,
+      "propertyString" : "Description",
+      "valueString" : "Deviation"
+    },
+    {
+      "id" : 5,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 39,
+      "propertyString" : "Description",
+      "valueString" : "Torso"
+    },
+    {
+      "id" : 39,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 40,
+      "propertyString" : "Description",
+      "valueString" : "Left upper arm"
+    },
+    {
+      "id" : 40,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 41,
+      "propertyString" : "Description",
+      "valueString" : "Left lower arm"
+    },
+    {
+      "id" : 41,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 42,
+      "propertyString" : "Description",
+      "valueString" : "Left elbow angle"
+    },
+    {
+      "id" : 42,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 42,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 43,
+      "propertyString" : "Description",
+      "valueString" : "Inside thresholds"
+    },
+    {
+      "id" : 43,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 43,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 44,
+      "propertyString" : "Description",
+      "valueString" : "Left elbow angle"
+    },
+    {
+      "id" : 44,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 44,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 45,
+      "propertyString" : "Description",
+      "valueString" : "Cycle"
+    },
+    {
+      "id" : 45,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 45,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 46,
+      "propertyString" : "Description",
+      "valueString" : "Cycles counter"
+    },
+    {
+      "id" : 46,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 46,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 47,
+      "propertyString" : "Description",
+      "valueString" : "Cycle"
+    },
+    {
+      "id" : 47,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 47,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 48,
+      "propertyString" : "Description",
+      "valueString" : "First cycle"
+    },
+    {
+      "id" : 48,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 48,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 49,
+      "propertyString" : "Description",
+      "valueString" : "Head"
+    },
+    {
+      "id" : 49,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 50,
+      "propertyString" : "Description",
+      "valueString" : "z-axis"
+    },
+    {
+      "id" : 50,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, 0.0, 1.0)"
+    },
+    {
+      "id" : 51,
+      "propertyString" : "Description",
+      "valueString" : "Lower limit"
+    },
+    {
+      "id" : 51,
+      "propertyString" : "OutputValue",
+      "valueString" : "10"
+    },
+    {
+      "id" : 52,
+      "propertyString" : "Description",
+      "valueString" : "Delay"
+    },
+    {
+      "id" : 52,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 53,
+      "propertyString" : "Description",
+      "valueString" : "Delay"
+    },
+    {
+      "id" : 53,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 54,
+      "propertyString" : "Description",
+      "valueString" : "Upper limit"
+    },
+    {
+      "id" : 54,
+      "propertyString" : "OutputValue",
+      "valueString" : "120"
+    },
+    {
+      "id" : 55,
+      "propertyString" : "Description",
+      "valueString" : "Sqrt"
+    },
+    {
+      "id" : 55,
+      "propertyString" : "OutputValue",
+      "valueString" : "0.5"
+    },
+    {
+      "id" : 56,
+      "propertyString" : "Description",
+      "valueString" : "First"
+    },
+    {
+      "id" : 56,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 57,
+      "propertyString" : "Description",
+      "valueString" : "Digits"
+    },
+    {
+      "id" : 57,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    }
+  ],
+  "containers" : [
+    {
+      "y" : 190,
+      "nodeIds" : [
+        10,
+        52,
+        11,
+        12,
+        13,
+        14
+      ],
+      "x" : 480,
+      "description" : "Threshold detector"
+    },
+    {
+      "y" : 410,
+      "nodeIds" : [
+        15,
+        53,
+        16,
+        17,
+        18,
+        19
+      ],
+      "x" : 330,
+      "description" : "Threshold detector"
+    },
+    {
+      "y" : 240,
+      "nodeIds" : [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        55,
+        36,
+        37
+      ],
+      "x" : 430,
+      "description" : "Sequence comparator"
+    }
+  ],
+  "nodes" : [
+    {
+      "id" : 0,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 1,
+      "classString" : "Variable output",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 2,
+      "classString" : "Variable output",
+      "typeString" : "Sequence"
+    },
+    {
+      "id" : 3,
+      "classString" : "Variable output",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 4,
+      "classString" : "Variable output",
+      "typeString" : "Sequence"
+    },
+    {
+      "id" : 5,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 6,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 7,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 8,
+      "classString" : "Function",
+      "typeString" : "Vector angle"
+    },
+    {
+      "id" : 9,
+      "classString" : "Function",
+      "typeString" : "Radians to degrees"
+    },
+    {
+      "id" : 10,
+      "classString" : "Function",
+      "typeString" : "Buffer",
+      "outputType" : "Boolean"
+    },
+    {
+      "id" : 11,
+      "classString" : "Function",
+      "typeString" : "Not"
+    },
+    {
+      "id" : 12,
+      "classString" : "Function",
+      "typeString" : "And"
+    },
+    {
+      "id" : 13,
+      "classString" : "Function",
+      "typeString" : "Trigger",
+      "outputType" : "Boolean"
+    },
+    {
+      "id" : 14,
+      "classString" : "Function",
+      "typeString" : "Larger"
+    },
+    {
+      "id" : 15,
+      "classString" : "Function",
+      "typeString" : "Buffer",
+      "outputType" : "Boolean"
+    },
+    {
+      "id" : 16,
+      "classString" : "Function",
+      "typeString" : "Not"
+    },
+    {
+      "id" : 17,
+      "classString" : "Function",
+      "typeString" : "And"
+    },
+    {
+      "id" : 18,
+      "classString" : "Function",
+      "typeString" : "Trigger",
+      "outputType" : "Boolean"
+    },
+    {
+      "id" : 19,
+      "classString" : "Function",
+      "typeString" : "Larger"
+    },
+    {
+      "id" : 20,
+      "classString" : "Function",
+      "typeString" : "Pass updated",
+      "outputType" : "Boolean"
+    },
+    {
+      "id" : 21,
+      "classString" : "Function",
+      "typeString" : "Not"
+    },
+    {
+      "id" : 22,
+      "classString" : "Function",
+      "typeString" : "Create sequence"
+    },
+    {
+      "id" : 23,
+      "classString" : "Function",
+      "typeString" : "Update counter"
+    },
+    {
+      "id" : 24,
+      "classString" : "Function",
+      "typeString" : "Subtract",
+      "outputType" : "Sequence"
+    },
+    {
+      "id" : 25,
+      "classString" : "Function",
+      "typeString" : "Sequence values"
+    },
+    {
+      "id" : 26,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Float array"
+    },
+    {
+      "id" : 27,
+      "classString" : "Function",
+      "typeString" : "Array sum",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 28,
+      "classString" : "Function",
+      "typeString" : "Number of elements"
+    },
+    {
+      "id" : 29,
+      "classString" : "Function",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 30,
+      "classString" : "Function",
+      "typeString" : "Divide",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 31,
+      "classString" : "Function",
+      "typeString" : "Power"
+    },
+    {
+      "id" : 32,
+      "classString" : "Function",
+      "typeString" : "Equal"
+    },
+    {
+      "id" : 33,
+      "classString" : "Function",
+      "typeString" : "Gate",
+      "outputType" : "Sequence"
+    },
+    {
+      "id" : 34,
+      "classString" : "Function",
+      "typeString" : "Trigger",
+      "outputType" : "Sequence"
+    },
+    {
+      "id" : 35,
+      "classString" : "Function",
+      "typeString" : "Not"
+    },
+    {
+      "id" : 36,
+      "classString" : "Function",
+      "typeString" : "Normalize"
+    },
+    {
+      "id" : 37,
+      "classString" : "Function",
+      "typeString" : "Normalize"
+    },
+    {
+      "id" : 38,
+      "classString" : "Function",
+      "typeString" : "Round"
+    },
+    {
+      "id" : 39,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 40,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 41,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 42,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 43,
+      "classString" : "Input stream",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 44,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 45,
+      "classString" : "Input stream",
+      "typeString" : "Sequence"
+    },
+    {
+      "id" : 46,
+      "classString" : "Input stream",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 47,
+      "classString" : "Input stream",
+      "typeString" : "Sequence"
+    },
+    {
+      "id" : 48,
+      "classString" : "Input stream",
+      "typeString" : "Sequence"
+    },
+    {
+      "id" : 49,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 50,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 51,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 52,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 53,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 54,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 55,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 56,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 57,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    }
+  ],
+  "subdiagrams" : [
+    {
+      "nodeIds" : [
+        39,
+        49
+      ],
+      "description" : "Segments"
+    },
+    {
+      "nodeIds" : [
+        40,
+        41,
+        50,
+        6,
+        7,
+        8,
+        0,
+        9
+      ],
+      "description" : "Elbow angles"
+    },
+    {
+      "nodeIds" : [
+        42,
+        51,
+        10,
+        52,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        53,
+        54,
+        20,
+        21,
+        1
+      ],
+      "description" : "Threshold detection"
+    },
+    {
+      "nodeIds" : [
+        43,
+        22,
+        44,
+        2,
+        23,
+        3
+      ],
+      "description" : "Cycles"
+    },
+    {
+      "nodeIds" : [
+        46,
+        32,
+        56,
+        47,
+        33,
+        34,
+        35,
+        4
+      ],
+      "description" : "First cycle"
+    },
+    {
+      "nodeIds" : [
+        45,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        55,
+        36,
+        37,
+        38,
+        57,
+        5,
+        48
+      ],
+      "description" : "Compare cycles"
+    }
+  ]
+}

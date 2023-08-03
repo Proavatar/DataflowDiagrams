@@ -1,0 +1,749 @@
+{
+  "connections" : [
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 0,
+      "inputNodeId" : 5
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 0,
+      "inputNodeId" : 11
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 1,
+      "inputNodeId" : 6
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 2,
+      "inputNodeId" : 8
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 3,
+      "inputNodeId" : 12
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 4,
+      "inputNodeId" : 14
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 5,
+      "inputNodeId" : 10
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 6,
+      "inputNodeId" : 7
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 7,
+      "inputNodeId" : 25
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 7,
+      "inputNodeId" : 9
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 8,
+      "inputNodeId" : 9
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 9,
+      "inputNodeId" : 26
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 10,
+      "inputNodeId" : 24
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 10,
+      "inputNodeId" : 7
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 11,
+      "inputNodeId" : 16
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 12,
+      "inputNodeId" : 13
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 13,
+      "inputNodeId" : 28
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 13,
+      "inputNodeId" : 15
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 14,
+      "inputNodeId" : 15
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 15,
+      "inputNodeId" : 29
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 16,
+      "inputNodeId" : 27
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 16,
+      "inputNodeId" : 13
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 17,
+      "inputNodeId" : 5
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 18,
+      "inputNodeId" : 6
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 19,
+      "inputNodeId" : 8
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 20,
+      "inputNodeId" : 11
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 21,
+      "inputNodeId" : 12
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 22,
+      "inputNodeId" : 14
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 23,
+      "inputNodeId" : 10
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 23,
+      "inputNodeId" : 16
+    }
+  ],
+  "manualLines" : [
+
+  ],
+  "positions" : [
+    {
+      "id" : 0,
+      "x" : 190,
+      "y" : 470
+    },
+    {
+      "id" : 1,
+      "x" : 190,
+      "y" : 740
+    },
+    {
+      "id" : 2,
+      "x" : 190,
+      "y" : 950
+    },
+    {
+      "id" : 3,
+      "x" : 1490,
+      "y" : 710
+    },
+    {
+      "id" : 4,
+      "x" : 1500,
+      "y" : 890
+    },
+    {
+      "id" : 5,
+      "x" : 370,
+      "y" : 350
+    },
+    {
+      "id" : 6,
+      "x" : 480,
+      "y" : 700
+    },
+    {
+      "id" : 7,
+      "x" : 730,
+      "y" : 660
+    },
+    {
+      "id" : 8,
+      "x" : 670,
+      "y" : 910
+    },
+    {
+      "id" : 9,
+      "x" : 910,
+      "y" : 870
+    },
+    {
+      "id" : 10,
+      "x" : 550,
+      "y" : 220
+    },
+    {
+      "id" : 11,
+      "x" : 1720,
+      "y" : 430
+    },
+    {
+      "id" : 12,
+      "x" : 1900,
+      "y" : 670
+    },
+    {
+      "id" : 13,
+      "x" : 2080,
+      "y" : 470
+    },
+    {
+      "id" : 14,
+      "x" : 2080,
+      "y" : 850
+    },
+    {
+      "id" : 15,
+      "x" : 2260,
+      "y" : 670
+    },
+    {
+      "id" : 16,
+      "x" : 1900,
+      "y" : 130
+    },
+    {
+      "id" : 17,
+      "x" : 150,
+      "y" : 310
+    },
+    {
+      "id" : 18,
+      "x" : 330,
+      "y" : 590
+    },
+    {
+      "id" : 19,
+      "x" : 450,
+      "y" : 870
+    },
+    {
+      "id" : 20,
+      "x" : 1570,
+      "y" : 310
+    },
+    {
+      "id" : 21,
+      "x" : 1640,
+      "y" : 630
+    },
+    {
+      "id" : 22,
+      "x" : 1770,
+      "y" : 810
+    },
+    {
+      "id" : 23,
+      "x" : 150,
+      "y" : 90
+    },
+    {
+      "id" : 24,
+      "x" : 880,
+      "y" : 220
+    },
+    {
+      "id" : 25,
+      "x" : 990,
+      "y" : 660
+    },
+    {
+      "id" : 26,
+      "x" : 1210,
+      "y" : 870
+    },
+    {
+      "id" : 27,
+      "x" : 2200,
+      "y" : 130
+    },
+    {
+      "id" : 28,
+      "x" : 2260,
+      "y" : 360
+    },
+    {
+      "id" : 29,
+      "x" : 2440,
+      "y" : 790
+    }
+  ],
+  "properties" : [
+    {
+      "id" : 0,
+      "propertyString" : "Description",
+      "valueString" : "Pelvis"
+    },
+    {
+      "id" : 0,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 0,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "Description",
+      "valueString" : "Left upper leg"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "Description",
+      "valueString" : "Left lower leg"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Description",
+      "valueString" : "Right upper leg"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Description",
+      "valueString" : "Right lower leg"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 17,
+      "propertyString" : "Description",
+      "valueString" : "Left hip"
+    },
+    {
+      "id" : 17,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, 0.2, 0.0)"
+    },
+    {
+      "id" : 18,
+      "propertyString" : "Description",
+      "valueString" : "Left knee"
+    },
+    {
+      "id" : 18,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, 0.0, -0.45)"
+    },
+    {
+      "id" : 19,
+      "propertyString" : "Description",
+      "valueString" : "Left ankle"
+    },
+    {
+      "id" : 19,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, 0.0, -0.45)"
+    },
+    {
+      "id" : 20,
+      "propertyString" : "Description",
+      "valueString" : "Right hip"
+    },
+    {
+      "id" : 20,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, -0.2, 0.0)"
+    },
+    {
+      "id" : 21,
+      "propertyString" : "Description",
+      "valueString" : "Right knee"
+    },
+    {
+      "id" : 21,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, 0.0, -0.45)"
+    },
+    {
+      "id" : 22,
+      "propertyString" : "Description",
+      "valueString" : "Right ankle"
+    },
+    {
+      "id" : 22,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, 0.0, -0.45)"
+    },
+    {
+      "id" : 23,
+      "propertyString" : "Description",
+      "valueString" : "Sacrum"
+    },
+    {
+      "id" : 23,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, 0.0, 0.0)"
+    },
+    {
+      "id" : 23,
+      "propertyString" : "Color",
+      "valueString" : "white"
+    },
+    {
+      "id" : 24,
+      "propertyString" : "Description",
+      "valueString" : "Left hip"
+    },
+    {
+      "id" : 24,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 24,
+      "propertyString" : "Color",
+      "valueString" : "white"
+    },
+    {
+      "id" : 25,
+      "propertyString" : "Description",
+      "valueString" : "Left knee"
+    },
+    {
+      "id" : 25,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 25,
+      "propertyString" : "Color",
+      "valueString" : "white"
+    },
+    {
+      "id" : 26,
+      "propertyString" : "Description",
+      "valueString" : "Left ankle"
+    },
+    {
+      "id" : 26,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 26,
+      "propertyString" : "Color",
+      "valueString" : "white"
+    },
+    {
+      "id" : 27,
+      "propertyString" : "Description",
+      "valueString" : "Right hip"
+    },
+    {
+      "id" : 27,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 27,
+      "propertyString" : "Color",
+      "valueString" : "white"
+    },
+    {
+      "id" : 28,
+      "propertyString" : "Description",
+      "valueString" : "Right knee"
+    },
+    {
+      "id" : 28,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 28,
+      "propertyString" : "Color",
+      "valueString" : "white"
+    },
+    {
+      "id" : 29,
+      "propertyString" : "Description",
+      "valueString" : "Right ankle"
+    },
+    {
+      "id" : 29,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 29,
+      "propertyString" : "Color",
+      "valueString" : "white"
+    }
+  ],
+  "containers" : [
+
+  ],
+  "nodes" : [
+    {
+      "id" : 0,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 1,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 2,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 3,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 4,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 5,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 6,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 7,
+      "classString" : "Function",
+      "typeString" : "Add",
+      "outputType" : "Vector"
+    },
+    {
+      "id" : 8,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 9,
+      "classString" : "Function",
+      "typeString" : "Add",
+      "outputType" : "Vector"
+    },
+    {
+      "id" : 10,
+      "classString" : "Function",
+      "typeString" : "Add",
+      "outputType" : "Vector"
+    },
+    {
+      "id" : 11,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 12,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 13,
+      "classString" : "Function",
+      "typeString" : "Add",
+      "outputType" : "Vector"
+    },
+    {
+      "id" : 14,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 15,
+      "classString" : "Function",
+      "typeString" : "Add",
+      "outputType" : "Vector"
+    },
+    {
+      "id" : 16,
+      "classString" : "Function",
+      "typeString" : "Add",
+      "outputType" : "Vector"
+    },
+    {
+      "id" : 17,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 18,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 19,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 20,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 21,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 22,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 23,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 24,
+      "classString" : "Variable output",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 25,
+      "classString" : "Variable output",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 26,
+      "classString" : "Variable output",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 27,
+      "classString" : "Variable output",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 28,
+      "classString" : "Variable output",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 29,
+      "classString" : "Variable output",
+      "typeString" : "Vector"
+    }
+  ],
+  "subdiagrams" : [
+    {
+      "nodeIds" : [
+        0,
+        24,
+        5,
+        17,
+        18,
+        1,
+        6,
+        7,
+        25,
+        19,
+        2,
+        8,
+        9,
+        26,
+        10,
+        27,
+        28,
+        29,
+        20,
+        21,
+        22,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        3,
+        4,
+        23
+      ],
+      "description" : "Joints"
+    }
+  ]
+}

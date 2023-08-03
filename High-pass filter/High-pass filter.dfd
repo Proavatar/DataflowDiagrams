@@ -1,0 +1,363 @@
+{
+  "connections" : [
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 0,
+      "inputNodeId" : 7
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 1,
+      "inputNodeId" : 11
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 2,
+      "inputNodeId" : 11
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 3,
+      "inputNodeId" : 13
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 4,
+      "inputNodeId" : 7
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 4,
+      "inputNodeId" : 8
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 4,
+      "inputNodeId" : 12
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 5,
+      "inputNodeId" : 9
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 7,
+      "inputNodeId" : 8
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 8,
+      "inputNodeId" : 9
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 9,
+      "inputNodeId" : 10
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 10,
+      "inputNodeId" : 14
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 11,
+      "inputNodeId" : 10
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 12,
+      "inputNodeId" : 13
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 13,
+      "inputNodeId" : 14
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 14,
+      "inputNodeId" : 6
+    }
+  ],
+  "manualLines" : [
+
+  ],
+  "positions" : [
+    {
+      "id" : 0,
+      "x" : 360,
+      "y" : 120
+    },
+    {
+      "id" : 1,
+      "x" : 530,
+      "y" : 840
+    },
+    {
+      "id" : 2,
+      "x" : 670,
+      "y" : 920
+    },
+    {
+      "id" : 3,
+      "x" : 930,
+      "y" : 370
+    },
+    {
+      "id" : 4,
+      "x" : 210,
+      "y" : 410
+    },
+    {
+      "id" : 5,
+      "x" : 220,
+      "y" : 690
+    },
+    {
+      "id" : 6,
+      "x" : 1590,
+      "y" : 520
+    },
+    {
+      "id" : 7,
+      "x" : 510,
+      "y" : 250
+    },
+    {
+      "id" : 8,
+      "x" : 570,
+      "y" : 450
+    },
+    {
+      "id" : 9,
+      "x" : 750,
+      "y" : 650
+    },
+    {
+      "id" : 10,
+      "x" : 1080,
+      "y" : 690
+    },
+    {
+      "id" : 11,
+      "x" : 900,
+      "y" : 880
+    },
+    {
+      "id" : 12,
+      "x" : 390,
+      "y" : 290
+    },
+    {
+      "id" : 13,
+      "x" : 1140,
+      "y" : 330
+    },
+    {
+      "id" : 14,
+      "x" : 1410,
+      "y" : 410
+    }
+  ],
+  "properties" : [
+    {
+      "id" : 0,
+      "propertyString" : "Description",
+      "valueString" : "Integer"
+    },
+    {
+      "id" : 0,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "Description",
+      "valueString" : "tau"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "OutputValue",
+      "valueString" : "0.1"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "Description",
+      "valueString" : "Float"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "OutputValue",
+      "valueString" : "1.0"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Description",
+      "valueString" : "t=0"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "OutputValue",
+      "valueString" : "0.0"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Description",
+      "valueString" : "Signal"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 5,
+      "propertyString" : "Description",
+      "valueString" : "Filter out"
+    },
+    {
+      "id" : 5,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 5,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 6,
+      "propertyString" : "Description",
+      "valueString" : "Filter out"
+    },
+    {
+      "id" : 6,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 6,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    }
+  ],
+  "containers" : [
+    {
+      "y" : 580,
+      "nodeIds" : [
+        0,
+        7
+      ],
+      "x" : 390,
+      "description" : "Previous"
+    }
+  ],
+  "nodes" : [
+    {
+      "id" : 0,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 1,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 2,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 3,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 4,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 5,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 6,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 7,
+      "classString" : "Function",
+      "typeString" : "Buffer",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 8,
+      "classString" : "Function",
+      "typeString" : "Subtract",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 9,
+      "classString" : "Function",
+      "typeString" : "Add",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 10,
+      "classString" : "Function",
+      "typeString" : "Divide",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 11,
+      "classString" : "Function",
+      "typeString" : "Add",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 12,
+      "classString" : "Function",
+      "typeString" : "Updated"
+    },
+    {
+      "id" : 13,
+      "classString" : "Function",
+      "typeString" : "Gate",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 14,
+      "classString" : "Function",
+      "typeString" : "Pass updated",
+      "outputType" : "Float"
+    }
+  ],
+  "subdiagrams" : [
+    {
+      "nodeIds" : [
+        4,
+        7,
+        0,
+        8,
+        9,
+        6,
+        5,
+        10,
+        11,
+        1,
+        2,
+        12,
+        13,
+        3,
+        14
+      ],
+      "description" : "Filter equation"
+    }
+  ]
+}

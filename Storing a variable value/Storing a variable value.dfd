@@ -1,0 +1,392 @@
+{
+  "connections" : [
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 0,
+      "inputNodeId" : 2
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 1,
+      "inputNodeId" : 8
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 2,
+      "inputNodeId" : 3
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 3,
+      "inputNodeId" : 4
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 4,
+      "inputNodeId" : 9
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 5,
+      "inputNodeId" : 6
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 6,
+      "inputNodeId" : 7
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 7,
+      "inputNodeId" : 10
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 11,
+      "inputNodeId" : 1
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 12,
+      "inputNodeId" : 2
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 13,
+      "inputNodeId" : 4
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 14,
+      "inputNodeId" : 6
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 15,
+      "inputNodeId" : 5
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 15,
+      "inputNodeId" : 7
+    }
+  ],
+  "manualLines" : [
+
+  ],
+  "positions" : [
+    {
+      "id" : 0,
+      "x" : 590,
+      "y" : 500
+    },
+    {
+      "id" : 1,
+      "x" : 750,
+      "y" : 180
+    },
+    {
+      "id" : 2,
+      "x" : 740,
+      "y" : 400
+    },
+    {
+      "id" : 3,
+      "x" : 920,
+      "y" : 480
+    },
+    {
+      "id" : 4,
+      "x" : 1160,
+      "y" : 520
+    },
+    {
+      "id" : 5,
+      "x" : 700,
+      "y" : 460
+    },
+    {
+      "id" : 6,
+      "x" : 940,
+      "y" : 500
+    },
+    {
+      "id" : 7,
+      "x" : 1120,
+      "y" : 370
+    },
+    {
+      "id" : 8,
+      "x" : 1020,
+      "y" : 180
+    },
+    {
+      "id" : 9,
+      "x" : 1340,
+      "y" : 410
+    },
+    {
+      "id" : 10,
+      "x" : 1300,
+      "y" : 500
+    },
+    {
+      "id" : 11,
+      "x" : 480,
+      "y" : 180
+    },
+    {
+      "id" : 12,
+      "x" : 440,
+      "y" : 360
+    },
+    {
+      "id" : 13,
+      "x" : 420,
+      "y" : 560
+    },
+    {
+      "id" : 14,
+      "x" : 490,
+      "y" : 540
+    },
+    {
+      "id" : 15,
+      "x" : 520,
+      "y" : 330
+    }
+  ],
+  "properties" : [
+    {
+      "id" : 0,
+      "propertyString" : "Description",
+      "valueString" : "Timeout"
+    },
+    {
+      "id" : 0,
+      "propertyString" : "OutputValue",
+      "valueString" : "3"
+    },
+    {
+      "id" : 8,
+      "propertyString" : "Description",
+      "valueString" : "Timestamp"
+    },
+    {
+      "id" : 8,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 8,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 9,
+      "propertyString" : "Description",
+      "valueString" : "Angle @ 3 sec."
+    },
+    {
+      "id" : 9,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 9,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 10,
+      "propertyString" : "Description",
+      "valueString" : "Angle"
+    },
+    {
+      "id" : 10,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 11,
+      "propertyString" : "Description",
+      "valueString" : "Elbow"
+    },
+    {
+      "id" : 11,
+      "propertyString" : "Forwarding",
+      "valueString" : "false"
+    },
+    {
+      "id" : 12,
+      "propertyString" : "Description",
+      "valueString" : "Timestamp"
+    },
+    {
+      "id" : 12,
+      "propertyString" : "Forwarding",
+      "valueString" : "false"
+    },
+    {
+      "id" : 12,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 13,
+      "propertyString" : "Description",
+      "valueString" : "Elbow"
+    },
+    {
+      "id" : 13,
+      "propertyString" : "Forwarding",
+      "valueString" : "false"
+    },
+    {
+      "id" : 14,
+      "propertyString" : "Description",
+      "valueString" : "Angle @ 3 sec."
+    },
+    {
+      "id" : 14,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 14,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 15,
+      "propertyString" : "Description",
+      "valueString" : "Elbow"
+    },
+    {
+      "id" : 15,
+      "propertyString" : "Forwarding",
+      "valueString" : "false"
+    }
+  ],
+  "containers" : [
+
+  ],
+  "nodes" : [
+    {
+      "id" : 0,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 1,
+      "classString" : "Function",
+      "typeString" : "Timestamp"
+    },
+    {
+      "id" : 2,
+      "classString" : "Function",
+      "typeString" : "Larger"
+    },
+    {
+      "id" : 3,
+      "classString" : "Function",
+      "typeString" : "Toggled"
+    },
+    {
+      "id" : 4,
+      "classString" : "Function",
+      "typeString" : "Gate",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 5,
+      "classString" : "Function",
+      "typeString" : "Updated"
+    },
+    {
+      "id" : 6,
+      "classString" : "Function",
+      "typeString" : "Trigger",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 7,
+      "classString" : "Function",
+      "typeString" : "Subtract",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 8,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 9,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 10,
+      "classString" : "Variable output",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 11,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 12,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 13,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 14,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 15,
+      "classString" : "Input stream",
+      "typeString" : "Float"
+    }
+  ],
+  "subdiagrams" : [
+    {
+      "nodeIds" : [
+        11,
+        1,
+        8
+      ],
+      "description" : "Timestamp"
+    },
+    {
+      "nodeIds" : [
+        2,
+        3,
+        4,
+        9,
+        0,
+        12,
+        13
+      ],
+      "description" : "Capture @ 3 seconds"
+    },
+    {
+      "nodeIds" : [
+        14,
+        15,
+        5,
+        6,
+        10,
+        7
+      ],
+      "description" : "Output variable value"
+    }
+  ]
+}

@@ -1,0 +1,1552 @@
+{
+  "connections" : [
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 0,
+      "inputNodeId" : 26
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 0,
+      "inputNodeId" : 28
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 0,
+      "inputNodeId" : 47
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 1,
+      "inputNodeId" : 28
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 2,
+      "inputNodeId" : 45
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 2,
+      "inputNodeId" : 49
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 2,
+      "inputNodeId" : 16
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 3,
+      "inputNodeId" : 41
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 3,
+      "inputNodeId" : 43
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 4,
+      "inputNodeId" : 50
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 5,
+      "inputNodeId" : 45
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 6,
+      "inputNodeId" : 50
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 7,
+      "inputNodeId" : 59
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 7,
+      "inputNodeId" : 63
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 7,
+      "inputNodeId" : 14
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 17,
+      "inputNodeId" : 29
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 17,
+      "inputNodeId" : 31
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 17,
+      "inputNodeId" : 30
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 18,
+      "inputNodeId" : 36
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 18,
+      "inputNodeId" : 38
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 18,
+      "inputNodeId" : 51
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 19,
+      "inputNodeId" : 40
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 20,
+      "inputNodeId" : 42
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 21,
+      "inputNodeId" : 44
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 22,
+      "inputNodeId" : 60
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 23,
+      "inputNodeId" : 61
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 24,
+      "inputNodeId" : 64
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 25,
+      "inputNodeId" : 66
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 26,
+      "inputNodeId" : 27
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 27,
+      "inputNodeId" : 46
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 28,
+      "inputNodeId" : 29
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 28,
+      "inputNodeId" : 33
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 29,
+      "inputNodeId" : 31
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 29,
+      "inputNodeId" : 30
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 30,
+      "inputNodeId" : 35
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 31,
+      "inputNodeId" : 32
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 32,
+      "inputNodeId" : 27
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 33,
+      "inputNodeId" : 34
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 34,
+      "inputNodeId" : 32
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 35,
+      "inputNodeId" : 34
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 36,
+      "inputNodeId" : 51
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 36,
+      "inputNodeId" : 38
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 37,
+      "inputNodeId" : 55
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 38,
+      "inputNodeId" : 39
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 39,
+      "inputNodeId" : 52
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 39,
+      "inputNodeId" : 37
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 39,
+      "inputNodeId" : 56
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 40,
+      "inputNodeId" : 37
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 40,
+      "inputNodeId" : 56
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 41,
+      "inputNodeId" : 42
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 41,
+      "inputNodeId" : 15
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 42,
+      "inputNodeId" : 10
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 43,
+      "inputNodeId" : 44
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 44,
+      "inputNodeId" : 9
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 45,
+      "inputNodeId" : 36
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 45,
+      "inputNodeId" : 53
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 46,
+      "inputNodeId" : 11
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 47,
+      "inputNodeId" : 46
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 48,
+      "inputNodeId" : 12
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 49,
+      "inputNodeId" : 48
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 50,
+      "inputNodeId" : 8
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 51,
+      "inputNodeId" : 52
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 52,
+      "inputNodeId" : 54
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 53,
+      "inputNodeId" : 40
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 54,
+      "inputNodeId" : 53
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 55,
+      "inputNodeId" : 58
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 56,
+      "inputNodeId" : 57
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 57,
+      "inputNodeId" : 58
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 58,
+      "inputNodeId" : 48
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 59,
+      "inputNodeId" : 61
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 60,
+      "inputNodeId" : 68
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 60,
+      "inputNodeId" : 68
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 61,
+      "inputNodeId" : 60
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 62,
+      "inputNodeId" : 13
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 63,
+      "inputNodeId" : 66
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 64,
+      "inputNodeId" : 65
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 65,
+      "inputNodeId" : 67
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 66,
+      "inputNodeId" : 64
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 66,
+      "inputNodeId" : 67
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 67,
+      "inputNodeId" : 69
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 67,
+      "inputNodeId" : 69
+    },
+    {
+      "inputIndex" : 0,
+      "outputNodeId" : 68,
+      "inputNodeId" : 62
+    },
+    {
+      "inputIndex" : 1,
+      "outputNodeId" : 69,
+      "inputNodeId" : 62
+    }
+  ],
+  "manualLines" : [
+
+  ],
+  "positions" : [
+    {
+      "id" : 0,
+      "x" : 600,
+      "y" : 500
+    },
+    {
+      "id" : 1,
+      "x" : 660,
+      "y" : 760
+    },
+    {
+      "id" : 2,
+      "x" : 140,
+      "y" : 1280
+    },
+    {
+      "id" : 3,
+      "x" : 170,
+      "y" : 350
+    },
+    {
+      "id" : 4,
+      "x" : 560,
+      "y" : 570
+    },
+    {
+      "id" : 5,
+      "x" : 360,
+      "y" : 1130
+    },
+    {
+      "id" : 6,
+      "x" : 560,
+      "y" : 860
+    },
+    {
+      "id" : 7,
+      "x" : 280,
+      "y" : 320
+    },
+    {
+      "id" : 8,
+      "x" : 1040,
+      "y" : 730
+    },
+    {
+      "id" : 9,
+      "x" : 950,
+      "y" : 560
+    },
+    {
+      "id" : 10,
+      "x" : 950,
+      "y" : 250
+    },
+    {
+      "id" : 11,
+      "x" : 2630,
+      "y" : 290
+    },
+    {
+      "id" : 12,
+      "x" : 3220,
+      "y" : 650
+    },
+    {
+      "id" : 13,
+      "x" : 2510,
+      "y" : 350
+    },
+    {
+      "id" : 14,
+      "x" : 580,
+      "y" : 490
+    },
+    {
+      "id" : 15,
+      "x" : 730,
+      "y" : 110
+    },
+    {
+      "id" : 16,
+      "x" : 390,
+      "y" : 1410
+    },
+    {
+      "id" : 17,
+      "x" : 860,
+      "y" : 510
+    },
+    {
+      "id" : 18,
+      "x" : 640,
+      "y" : 690
+    },
+    {
+      "id" : 19,
+      "x" : 1990,
+      "y" : 1020
+    },
+    {
+      "id" : 20,
+      "x" : 550,
+      "y" : 390
+    },
+    {
+      "id" : 21,
+      "x" : 260,
+      "y" : 600
+    },
+    {
+      "id" : 22,
+      "x" : 850,
+      "y" : 430
+    },
+    {
+      "id" : 23,
+      "x" : 600,
+      "y" : 180
+    },
+    {
+      "id" : 24,
+      "x" : 890,
+      "y" : 650
+    },
+    {
+      "id" : 25,
+      "x" : 630,
+      "y" : 920
+    },
+    {
+      "id" : 26,
+      "x" : 780,
+      "y" : 350
+    },
+    {
+      "id" : 27,
+      "x" : 2180,
+      "y" : 390
+    },
+    {
+      "id" : 28,
+      "x" : 1040,
+      "y" : 800
+    },
+    {
+      "id" : 29,
+      "x" : 1220,
+      "y" : 430
+    },
+    {
+      "id" : 30,
+      "x" : 1400,
+      "y" : 700
+    },
+    {
+      "id" : 31,
+      "x" : 1540,
+      "y" : 470
+    },
+    {
+      "id" : 32,
+      "x" : 2000,
+      "y" : 510
+    },
+    {
+      "id" : 33,
+      "x" : 1220,
+      "y" : 890
+    },
+    {
+      "id" : 34,
+      "x" : 1820,
+      "y" : 850
+    },
+    {
+      "id" : 35,
+      "x" : 1580,
+      "y" : 810
+    },
+    {
+      "id" : 36,
+      "x" : 790,
+      "y" : 980
+    },
+    {
+      "id" : 37,
+      "x" : 2320,
+      "y" : 780
+    },
+    {
+      "id" : 38,
+      "x" : 970,
+      "y" : 730
+    },
+    {
+      "id" : 39,
+      "x" : 1220,
+      "y" : 730
+    },
+    {
+      "id" : 40,
+      "x" : 2140,
+      "y" : 1160
+    },
+    {
+      "id" : 41,
+      "x" : 430,
+      "y" : 210
+    },
+    {
+      "id" : 42,
+      "x" : 700,
+      "y" : 250
+    },
+    {
+      "id" : 43,
+      "x" : 430,
+      "y" : 520
+    },
+    {
+      "id" : 44,
+      "x" : 700,
+      "y" : 560
+    },
+    {
+      "id" : 45,
+      "x" : 610,
+      "y" : 1240
+    },
+    {
+      "id" : 46,
+      "x" : 2360,
+      "y" : 290
+    },
+    {
+      "id" : 47,
+      "x" : 1220,
+      "y" : 250
+    },
+    {
+      "id" : 48,
+      "x" : 2970,
+      "y" : 650
+    },
+    {
+      "id" : 49,
+      "x" : 320,
+      "y" : 610
+    },
+    {
+      "id" : 50,
+      "x" : 740,
+      "y" : 730
+    },
+    {
+      "id" : 51,
+      "x" : 1080,
+      "y" : 940
+    },
+    {
+      "id" : 52,
+      "x" : 1530,
+      "y" : 980
+    },
+    {
+      "id" : 53,
+      "x" : 1890,
+      "y" : 1200
+    },
+    {
+      "id" : 54,
+      "x" : 1710,
+      "y" : 1060
+    },
+    {
+      "id" : 55,
+      "x" : 2610,
+      "y" : 780
+    },
+    {
+      "id" : 56,
+      "x" : 2430,
+      "y" : 980
+    },
+    {
+      "id" : 57,
+      "x" : 2610,
+      "y" : 1080
+    },
+    {
+      "id" : 58,
+      "x" : 2790,
+      "y" : 930
+    },
+    {
+      "id" : 59,
+      "x" : 570,
+      "y" : 320
+    },
+    {
+      "id" : 60,
+      "x" : 1080,
+      "y" : 320
+    },
+    {
+      "id" : 61,
+      "x" : 820,
+      "y" : 280
+    },
+    {
+      "id" : 62,
+      "x" : 2250,
+      "y" : 350
+    },
+    {
+      "id" : 63,
+      "x" : 600,
+      "y" : 790
+    },
+    {
+      "id" : 64,
+      "x" : 1110,
+      "y" : 690
+    },
+    {
+      "id" : 65,
+      "x" : 1350,
+      "y" : 690
+    },
+    {
+      "id" : 66,
+      "x" : 850,
+      "y" : 830
+    },
+    {
+      "id" : 67,
+      "x" : 1590,
+      "y" : 790
+    },
+    {
+      "id" : 68,
+      "x" : 1430,
+      "y" : 310
+    },
+    {
+      "id" : 69,
+      "x" : 1870,
+      "y" : 790
+    }
+  ],
+  "properties" : [
+    {
+      "id" : 0,
+      "propertyString" : "Description",
+      "valueString" : "Sensor"
+    },
+    {
+      "id" : 0,
+      "propertyString" : "Forwarding",
+      "valueString" : "false"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "Description",
+      "valueString" : "Vertical calibration trigger"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 1,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "Description",
+      "valueString" : "Vertically calibrated"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 2,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Description",
+      "valueString" : "Calibrate"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 3,
+      "propertyString" : "Color",
+      "valueString" : "blue"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Description",
+      "valueString" : "Vertically calibrated"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 4,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 5,
+      "propertyString" : "Description",
+      "valueString" : "Horizontal calibration trigger"
+    },
+    {
+      "id" : 5,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 5,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 6,
+      "propertyString" : "Description",
+      "valueString" : "Horizontal calibration"
+    },
+    {
+      "id" : 6,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 6,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 7,
+      "propertyString" : "Description",
+      "valueString" : "Right upper leg"
+    },
+    {
+      "id" : 7,
+      "propertyString" : "Forwarding",
+      "valueString" : "true"
+    },
+    {
+      "id" : 8,
+      "propertyString" : "Description",
+      "valueString" : "Torso"
+    },
+    {
+      "id" : 8,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 9,
+      "propertyString" : "Description",
+      "valueString" : "Horizontal calibration trigger"
+    },
+    {
+      "id" : 9,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 9,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 10,
+      "propertyString" : "Description",
+      "valueString" : "Vertical calibration trigger"
+    },
+    {
+      "id" : 10,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 10,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 11,
+      "propertyString" : "Description",
+      "valueString" : "Vertically calibrated"
+    },
+    {
+      "id" : 11,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 11,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 12,
+      "propertyString" : "Description",
+      "valueString" : "Horizontal calibration"
+    },
+    {
+      "id" : 12,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 12,
+      "propertyString" : "Color",
+      "valueString" : "cyan"
+    },
+    {
+      "id" : 13,
+      "propertyString" : "Description",
+      "valueString" : "Calibrate"
+    },
+    {
+      "id" : 13,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 14,
+      "propertyString" : "Description",
+      "valueString" : "Sensor"
+    },
+    {
+      "id" : 14,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 15,
+      "propertyString" : "Description",
+      "valueString" : "Integer"
+    },
+    {
+      "id" : 15,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 16,
+      "propertyString" : "Description",
+      "valueString" : "Orientation"
+    },
+    {
+      "id" : 16,
+      "propertyString" : "Hidden",
+      "valueString" : "false"
+    },
+    {
+      "id" : 17,
+      "propertyString" : "Description",
+      "valueString" : "z-axis"
+    },
+    {
+      "id" : 17,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, 0.0, 1.0)"
+    },
+    {
+      "id" : 18,
+      "propertyString" : "Description",
+      "valueString" : "z-axis"
+    },
+    {
+      "id" : 18,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, 0.0, 1.0)"
+    },
+    {
+      "id" : 19,
+      "propertyString" : "Description",
+      "valueString" : "y-axis"
+    },
+    {
+      "id" : 19,
+      "propertyString" : "OutputValue",
+      "valueString" : "(0.0, 1.0, 0.0)"
+    },
+    {
+      "id" : 20,
+      "propertyString" : "Description",
+      "valueString" : "Integer"
+    },
+    {
+      "id" : 20,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 21,
+      "propertyString" : "Description",
+      "valueString" : "Integer"
+    },
+    {
+      "id" : 21,
+      "propertyString" : "OutputValue",
+      "valueString" : "2"
+    },
+    {
+      "id" : 22,
+      "propertyString" : "Description",
+      "valueString" : "True"
+    },
+    {
+      "id" : 22,
+      "propertyString" : "OutputValue",
+      "valueString" : "true"
+    },
+    {
+      "id" : 23,
+      "propertyString" : "Description",
+      "valueString" : "Integer"
+    },
+    {
+      "id" : 23,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 24,
+      "propertyString" : "Description",
+      "valueString" : "Integer"
+    },
+    {
+      "id" : 24,
+      "propertyString" : "OutputValue",
+      "valueString" : "1"
+    },
+    {
+      "id" : 25,
+      "propertyString" : "Description",
+      "valueString" : "Time horizontal calibration"
+    },
+    {
+      "id" : 25,
+      "propertyString" : "OutputValue",
+      "valueString" : "3"
+    }
+  ],
+  "containers" : [
+
+  ],
+  "nodes" : [
+    {
+      "id" : 0,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 1,
+      "classString" : "Input stream",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 2,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 3,
+      "classString" : "Input stream",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 4,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 5,
+      "classString" : "Input stream",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 6,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 7,
+      "classString" : "Input stream",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 8,
+      "classString" : "Variable output",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 9,
+      "classString" : "Variable output",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 10,
+      "classString" : "Variable output",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 11,
+      "classString" : "Variable output",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 12,
+      "classString" : "Variable output",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 13,
+      "classString" : "Variable output",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 14,
+      "classString" : "Variable output",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 15,
+      "classString" : "Variable output",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 16,
+      "classString" : "Variable output",
+      "typeString" : "Orientation"
+    },
+    {
+      "id" : 17,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 18,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 19,
+      "classString" : "Constant",
+      "typeString" : "Vector"
+    },
+    {
+      "id" : 20,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 21,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 22,
+      "classString" : "Constant",
+      "typeString" : "Boolean"
+    },
+    {
+      "id" : 23,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 24,
+      "classString" : "Constant",
+      "typeString" : "Integer"
+    },
+    {
+      "id" : 25,
+      "classString" : "Constant",
+      "typeString" : "Float"
+    },
+    {
+      "id" : 26,
+      "classString" : "Function",
+      "typeString" : "Updated"
+    },
+    {
+      "id" : 27,
+      "classString" : "Function",
+      "typeString" : "Trigger",
+      "outputType" : "Orientation"
+    },
+    {
+      "id" : 28,
+      "classString" : "Function",
+      "typeString" : "Trigger",
+      "outputType" : "Orientation"
+    },
+    {
+      "id" : 29,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 30,
+      "classString" : "Function",
+      "typeString" : "Vector cross product"
+    },
+    {
+      "id" : 31,
+      "classString" : "Function",
+      "typeString" : "Vector angle"
+    },
+    {
+      "id" : 32,
+      "classString" : "Function",
+      "typeString" : "Make quaternion"
+    },
+    {
+      "id" : 33,
+      "classString" : "Function",
+      "typeString" : "Inverse quaternion"
+    },
+    {
+      "id" : 34,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 35,
+      "classString" : "Function",
+      "typeString" : "Normalize vector"
+    },
+    {
+      "id" : 36,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 37,
+      "classString" : "Function",
+      "typeString" : "Vector angle"
+    },
+    {
+      "id" : 38,
+      "classString" : "Function",
+      "typeString" : "Vector cross product"
+    },
+    {
+      "id" : 39,
+      "classString" : "Function",
+      "typeString" : "Normalize vector"
+    },
+    {
+      "id" : 40,
+      "classString" : "Function",
+      "typeString" : "Rotate vector"
+    },
+    {
+      "id" : 41,
+      "classString" : "Function",
+      "typeString" : "Update counter"
+    },
+    {
+      "id" : 42,
+      "classString" : "Function",
+      "typeString" : "Equal"
+    },
+    {
+      "id" : 43,
+      "classString" : "Function",
+      "typeString" : "Update counter"
+    },
+    {
+      "id" : 44,
+      "classString" : "Function",
+      "typeString" : "Equal"
+    },
+    {
+      "id" : 45,
+      "classString" : "Function",
+      "typeString" : "Trigger",
+      "outputType" : "Orientation"
+    },
+    {
+      "id" : 46,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Orientation"
+    },
+    {
+      "id" : 47,
+      "classString" : "Function",
+      "typeString" : "Pass-through",
+      "outputType" : "Orientation"
+    },
+    {
+      "id" : 48,
+      "classString" : "Function",
+      "typeString" : "Trigger",
+      "outputType" : "Orientation"
+    },
+    {
+      "id" : 49,
+      "classString" : "Function",
+      "typeString" : "Updated"
+    },
+    {
+      "id" : 50,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Orientation"
+    },
+    {
+      "id" : 51,
+      "classString" : "Function",
+      "typeString" : "Vector angle"
+    },
+    {
+      "id" : 52,
+      "classString" : "Function",
+      "typeString" : "Make quaternion"
+    },
+    {
+      "id" : 53,
+      "classString" : "Function",
+      "typeString" : "Multiply",
+      "outputType" : "Orientation"
+    },
+    {
+      "id" : 54,
+      "classString" : "Function",
+      "typeString" : "Inverse quaternion"
+    },
+    {
+      "id" : 55,
+      "classString" : "Function",
+      "typeString" : "Negate",
+      "outputType" : "Float"
+    },
+    {
+      "id" : 56,
+      "classString" : "Function",
+      "typeString" : "Vector cross product"
+    },
+    {
+      "id" : 57,
+      "classString" : "Function",
+      "typeString" : "Normalize vector"
+    },
+    {
+      "id" : 58,
+      "classString" : "Function",
+      "typeString" : "Make quaternion"
+    },
+    {
+      "id" : 59,
+      "classString" : "Function",
+      "typeString" : "Update counter"
+    },
+    {
+      "id" : 60,
+      "classString" : "Function",
+      "typeString" : "Gate",
+      "outputType" : "Boolean"
+    },
+    {
+      "id" : 61,
+      "classString" : "Function",
+      "typeString" : "Equal"
+    },
+    {
+      "id" : 62,
+      "classString" : "Function",
+      "typeString" : "Pass updated",
+      "outputType" : "Boolean"
+    },
+    {
+      "id" : 63,
+      "classString" : "Function",
+      "typeString" : "Timestamp"
+    },
+    {
+      "id" : 64,
+      "classString" : "Function",
+      "typeString" : "Buffer",
+      "outputType" : "Boolean"
+    },
+    {
+      "id" : 65,
+      "classString" : "Function",
+      "typeString" : "Not"
+    },
+    {
+      "id" : 66,
+      "classString" : "Function",
+      "typeString" : "Larger"
+    },
+    {
+      "id" : 67,
+      "classString" : "Function",
+      "typeString" : "And"
+    },
+    {
+      "id" : 68,
+      "classString" : "Function",
+      "typeString" : "Trigger",
+      "outputType" : "Boolean"
+    },
+    {
+      "id" : 69,
+      "classString" : "Function",
+      "typeString" : "Trigger",
+      "outputType" : "Boolean"
+    }
+  ],
+  "subdiagrams" : [
+    {
+      "nodeIds" : [
+        22,
+        7,
+        59,
+        60,
+        61,
+        23,
+        62,
+        63,
+        64,
+        24,
+        65,
+        66,
+        25,
+        67,
+        13,
+        14,
+        68,
+        69
+      ],
+      "description" : "Set trigger"
+    },
+    {
+      "nodeIds" : [
+        41,
+        42,
+        43,
+        44,
+        9,
+        20,
+        21,
+        3,
+        10,
+        15
+      ],
+      "description" : "Calibration trigger"
+    },
+    {
+      "nodeIds" : [
+        0,
+        1,
+        26,
+        27,
+        28,
+        29,
+        17,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        46,
+        11,
+        47
+      ],
+      "description" : "Vertical calibration"
+    },
+    {
+      "nodeIds" : [
+        18,
+        19,
+        36,
+        37,
+        38,
+        39,
+        40,
+        2,
+        45,
+        5,
+        48,
+        49,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        12,
+        16
+      ],
+      "description" : "Horizontal calibration"
+    },
+    {
+      "nodeIds" : [
+        8,
+        4,
+        50,
+        6
+      ],
+      "description" : "Calibrated orientation"
+    }
+  ]
+}
